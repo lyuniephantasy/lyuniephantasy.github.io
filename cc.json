@@ -1,7 +1,12 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "inventoryDate": "2026-11-25",
   "complete": false,
+  "inventoryCoverage": "Complete file inventory. Linked release entries include prior recorded source matches; creator archive entries link to official creator pages, not specific release posts. Pending entries are provisional filename-based groups.",
+  "fileCount": 1108,
+  "linkedFileCount": 392,
+  "archiveFileCount": 417,
+  "pendingFileCount": 299,
   "items": [
     {
       "name": "Andrew's Pose Player",
@@ -10,8 +15,55 @@
       "subcategory": "Other",
       "url": "https://sims4studio.com/thread/2617/andrews-studio",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "andrew_poseplayer.package",
+        "andrew_poseplayer.ts4script"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
+    },
+    {
+      "name": "Guitar Player's Delight",
+      "creator": "Around the Sims 4",
+      "category": "Build & Buy",
+      "subcategory": "Electronics",
+      "url": "https://aroundthesims4.com/objects/room_other_01.shtml",
+      "essential": false,
+      "included": [
+        "ATS4_object_guitarplayer_amp1.package",
+        "ATS4_object_guitarplayer_amp2.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
+    },
+    {
+      "name": "Church",
+      "creator": "Around the Sims 4 (Sandy)",
+      "category": "Build & Buy",
+      "subcategory": "Decorations",
+      "url": "https://aroundthesims4.com/objects/room_community_25.shtml",
+      "essential": false,
+      "included": [
+        "ATS4_object_church_altar.package",
+        "ATS4_object_church_aspersorium.package",
+        "ATS4_object_church_baptismalfont.package",
+        "ATS4_object_church_bible.package",
+        "ATS4_object_church_calice.package",
+        "ATS4_object_church_candles.package",
+        "ATS4_object_church_candlesholder.package",
+        "ATS4_object_church_confessional.package",
+        "ATS4_object_church_cross.package",
+        "ATS4_object_church_endtable.package",
+        "ATS4_object_church_harmonium_GT.package",
+        "ATS4_object_church_holyoilsbox.package",
+        "ATS4_object_church_incenseburner_SPA.package",
+        "ATS4_object_church_lectern_CL.package",
+        "ATS4_object_church_ostensory.package",
+        "ATS4_object_church_paten.package",
+        "ATS4_object_church_stoup.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 17
     },
     {
       "name": "Teen Jobs Collection",
@@ -20,8 +72,12 @@
       "subcategory": "Careers",
       "url": "https://www.patreon.com/astrosims/posts/teen-jobs-and-to-148421430",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "[AstroBluu] Teen Jobs Collection V7.package",
+        "[AstroBluu] Teen Jobs Collection V7.ts4script"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
     },
     {
       "name": "Season of the Soul",
@@ -30,8 +86,67 @@
       "subcategory": "Furniture",
       "url": "https://www.patreon.com/atticwindowatdawn/posts/season-of-soul-116323193",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "atticwindowatdawn_BookwormsStash.package",
+        "atticwindowatdawn_ComfyToGoDresser.package",
+        "atticwindowatdawn_GroovyCrates-BASE-GAME-compatible.package",
+        "atticwindowatdawn_GroovyCrates.package",
+        "atticwindowatdawn_SlightlyRaggedGuitarCase.package",
+        "atticwindowatdawn_TinyGroovyTunesMachine.package",
+        "atticwindowatdawn_TinyIndoorGarden.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 7
+    },
+    {
+      "name": "Unplugged",
+      "creator": "atticwindowatdawn",
+      "category": "Build & Buy",
+      "subcategory": "Furniture",
+      "url": "https://www.patreon.com/atticwindowatdawn/posts/unplugged-118343683",
+      "essential": false,
+      "included": [
+        "atticwindowatdawn_ColsieEndTable.package",
+        "atticwindowatdawn_HandyDandyBookshelf.package",
+        "atticwindowatdawn_MilkyVase.package",
+        "atticwindowatdawn_SnugglyBundleChair.package",
+        "atticwindowatdawn_SnugglyBundleSofa.package",
+        "atticwindowatdawn_TheCozySpot.package",
+        "atticwindowatdawn_TheRetiredTraveler.package",
+        "atticwindowatdawn_TheRiffCrafter.package",
+        "atticwindowatdawn_TinyTunesSpeaker.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 9
+    },
+    {
+      "name": "Guitar Functional and Deco",
+      "creator": "channel4sims",
+      "category": "Build & Buy",
+      "subcategory": "Electronics",
+      "url": "https://www.patreon.com/channel4sims/posts/ts4-guitar-and-76161646",
+      "essential": false,
+      "included": [
+        "channel4sims - guitar functional no effect.package",
+        "channel4sims - guitar functional.package",
+        "channel4sims - guitar wall hanging deco.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 3
+    },
+    {
+      "name": "Guitar Gibson Les Paul",
+      "creator": "channel4sims",
+      "category": "Build & Buy",
+      "subcategory": "Electronics",
+      "url": "https://www.patreon.com/channel4sims/posts/ts4-guitar-les-100931111",
+      "essential": false,
+      "included": [
+        "channel4sims - guitar gibson les paul wall deco.package",
+        "channel4sims - guitar gibson les paul.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
     },
     {
       "name": "MC Command Center",
@@ -40,8 +155,24 @@
       "subcategory": "Quality of life",
       "url": "https://www.curseforge.com/sims4/mods/mc-command-center",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "mc_career.ts4script",
+        "mc_cas.ts4script",
+        "mc_cheats.ts4script",
+        "mc_cleaner.ts4script",
+        "mc_clubs.ts4script",
+        "mc_cmd_center.package",
+        "mc_cmd_center.ts4script",
+        "mc_control.ts4script",
+        "mc_dresser.ts4script",
+        "mc_gedcom.ts4script",
+        "mc_occult.ts4script",
+        "mc_population.ts4script",
+        "mc_pregnancy.ts4script",
+        "mc_tuner.ts4script"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 14
     },
     {
       "name": "Language Barriers",
@@ -50,8 +181,37 @@
       "subcategory": "Gameplay",
       "url": "https://www.curseforge.com/sims4/mods/language-barriers",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "frankk_LanguageBarriers.package",
+        "frankk_LanguageBarriers.ts4script"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
+    },
+    {
+      "name": "Religious Outfits – TSM Conversion",
+      "creator": "Gauntlet101010",
+      "category": "Clothing & accessories",
+      "subcategory": "Full-body outfits",
+      "url": "https://www.curseforge.com/sims4/create-a-sim/religious-outfits-tsm-conversion",
+      "essential": false,
+      "included": [
+        "Gauntlet101010_Mt4_JacobanConeHat.package",
+        "Gauntlet101010_Mt4_JacobanPriestAltarNecklace_Female.package",
+        "Gauntlet101010_Mt4_JacobanPriestAltarNecklace_Male.package",
+        "Gauntlet101010_Mt4_JacobanPriestWatcherRobe_Female.package",
+        "Gauntlet101010_Mt4_JacobanPriestWatcherRobe_Male.package",
+        "Gauntlet101010_Mt4_JacobanPriest_Female.package",
+        "Gauntlet101010_Mt4_JacobanPriest_Male.package",
+        "Gauntlet101010_Mt4_JacobanTopHat.package",
+        "Gauntlet101010_Mt4_JacobanTopHat_OriginalMesh.package",
+        "Gauntlet101010_Mt4_PeteranMonkRobe_Female.package",
+        "Gauntlet101010_Mt4_PeteranMonkRobe_Male.package",
+        "Gauntlet101010_Mt4_PeteranPriest_Female.package",
+        "Gauntlet101010_Mt4_PeteranPriest_Male.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 13
     },
     {
       "name": "Play Together: Billy's Band v3.0",
@@ -60,8 +220,11 @@
       "subcategory": "Gameplay",
       "url": "https://www.curseforge.com/sims4/mods/play-together-billys-band-practice",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "CBC_Play_Together_Bands_V3.0.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 1
     },
     {
       "name": "K-Pop Star Mod",
@@ -70,8 +233,22 @@
       "subcategory": "Gameplay",
       "url": "https://www.kawaii-stacie.com/post/kpop-star-mod",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "KawaiiStacie ?  Kpop Hats.package",
+        "KawaiiStacie ?  Kpop Star Aspiration.package",
+        "KawaiiStacie ? Kpop Extras.package",
+        "KawaiiStacie ? Kpop Extras.ts4script",
+        "KawaiiStacie ? Kpop Fast Track.package",
+        "KawaiiStacie ? Kpop Group Members.package",
+        "KawaiiStacie ? Kpop Makeup.package",
+        "KawaiiStacie ? Kpop Mod Company.package",
+        "KawaiiStacie ? Kpop Mod.package",
+        "KawaiiStacie ? Kpop Mod.ts4script",
+        "KawaiiStacie ? Kpop Star Performances.package",
+        "KawaiiStacie ? Kpop Star Rabbit Holes.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 12
     },
     {
       "name": "Preschool Mod",
@@ -80,8 +257,14 @@
       "subcategory": "Gameplay",
       "url": "https://www.kawaii-stacie.com/post/preschool-mod",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "KawaiiStacie - Preschool (Auto Enroll).package",
+        "KawaiiStacie - Preschool (Classes).package",
+        "KawaiiStacie - Preschool Mod.package",
+        "KawaiiStacie - Preschool Mod.ts4script"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 4
     },
     {
       "name": "Slice of Life",
@@ -90,8 +273,34 @@
       "subcategory": "Gameplay",
       "url": "https://www.kawaii-stacie.com/post/slice-of-life-mod",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "KawaiiStacie ? Fun Juice.ts4script",
+        "KawaiiStacie ? Health.ts4script",
+        "KawaiiStacie ? Menstrual Cycle.ts4script",
+        "KawaiiStacie ? My Personality.ts4script",
+        "KawaiiStacie ? Skincare Beauty.ts4script",
+        "[KawaiiStacie] Beauty & Fashion Features.package",
+        "[KawaiiStacie] Beauty & Fashion Interactions.package",
+        "[KawaiiStacie] Beauty & Fashion Overlays.package",
+        "[KawaiiStacie] Beauty & Fashion Picker.package",
+        "[KawaiiStacie] Fun Juice Features.package",
+        "[KawaiiStacie] Fun Juice Interactions.package",
+        "[KawaiiStacie] Fun Juice Overlay.package",
+        "[KawaiiStacie] Health Features.package",
+        "[KawaiiStacie] Health Picker.package",
+        "[KawaiiStacie] Toilet Interactions.package",
+        "[KawaiiStacie] Toilet Sound Effects.package",
+        "[KawaiiStacie] Menstrual Cycle Acne.package",
+        "[KawaiiStacie] Menstrual Cycle Symptoms.package",
+        "[KawaiiStacie] Menstrual Cycle Toilets.package",
+        "[KawaiiStacie] Menstrual Cycle.package",
+        "[KawaiiStacie] - My Personality.package",
+        "[KawaiiStacie] - Personality Base.package",
+        "[KawaiiStacie] Self Woohoo Interaction.package",
+        "[KawaiiStacie] Self Woohoo Woohoo Buffs.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 24
     },
     {
       "name": "Smart Beauty Careers",
@@ -100,18 +309,18 @@
       "subcategory": "Careers",
       "url": "https://www.kawaii-stacie.com/post/beauty-careers",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Beauty Model Career",
-        "Cafe Maid Career",
-        "Esthetician Career",
-        "Fashion Model Career",
-        "Hair Stylist Career",
-        "Makeup Artist Career",
-        "Nail Tech Career",
-        "Professional Cosplayer Career"
-      ]
+        "KawaiiStacie ? Beauty Model Career.package",
+        "KawaiiStacie ? Cafe Maid Career.package",
+        "KawaiiStacie ? Esthetician Career.package",
+        "KawaiiStacie ? Fashion Model Career.package",
+        "KawaiiStacie ? Hair Stylist Career.package",
+        "KawaiiStacie ? Makeup Artist Career.package",
+        "KawaiiStacie ? Nail Tech Career.package",
+        "KawaiiStacie ? Professional Cosplayer Career.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 8
     },
     {
       "name": "The Explore Mod",
@@ -120,8 +329,20 @@
       "subcategory": "Gameplay",
       "url": "https://www.kawaii-stacie.com/post/the-explore-mod",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "KawaiiStacie ? Explore Mod Base.package",
+        "KawaiiStacie ? Explore Mod Base.ts4script",
+        "KawaiiStacie ? Explore Mod Places.package",
+        "KawaiiStacie ? Explore Mod Social Life.package",
+        "KawaiiStacie ? Explore Together.package",
+        "KawaiiStacie ? Explore Mod Base.package",
+        "KawaiiStacie ? Explore Mod Base.ts4script",
+        "KawaiiStacie ? Explore Mod Places.package",
+        "KawaiiStacie ? Explore Mod Social Life.package",
+        "KawaiiStacie ? Explore Together.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 10
     },
     {
       "name": "Ballet Club School Activity",
@@ -130,8 +351,11 @@
       "subcategory": "Gameplay",
       "url": "https://kiarasims4mods.net/2021/08/23/ballet-club/",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "KiaraSims4Mods_BalletClub_SchoolActivity.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 1
     },
     {
       "name": "Citrus Room",
@@ -140,32 +364,50 @@
       "subcategory": "Furniture",
       "url": "https://www.patreon.com/u15789815/posts/kkbsmm-citrus-75256313",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Armchair",
-        "Bookcase",
-        "Books (versions 1–4)",
-        "Canvas (versions 1–2)",
-        "Coffee table (versions 1–2)",
-        "Curtain (2x3, 2x4, 3x3, 4x3)",
-        "Cushion (versions 1–2)",
-        "Delivery box",
-        "Desk calendar",
-        "Fabric storage box (versions 1–2)",
-        "File rack (versions 1–2)",
-        "Flower cushion (versions 1–2)",
-        "Frame (versions 1–2)",
-        "Loveseat",
-        "Mini Coffee table",
-        "Paintings",
-        "Samsung The Serif (versions 1–2)",
-        "Shelf (versions 1–2)",
-        "Sofa",
-        "Storage box (versions 1–2)",
-        "Wooden house clutter (versions 1–2)",
-        "Wooden tree clutter (versions 1–2)"
-      ]
+        "[KKB'sMM]Citrus Room- Armchair .package",
+        "[KKB'sMM]Citrus Room- Bookcase.package",
+        "[KKB'sMM]Citrus Room- Books ver.1.package",
+        "[KKB'sMM]Citrus Room- Books ver.2.package",
+        "[KKB'sMM]Citrus Room- Books ver.3.package",
+        "[KKB'sMM]Citrus Room- Books ver.4.package",
+        "[KKB'sMM]Citrus Room- Canvas ver.1.package",
+        "[KKB'sMM]Citrus Room- Canvas ver.2.package",
+        "[KKB'sMM]Citrus Room- Coffee table ver.1.package",
+        "[KKB'sMM]Citrus Room- Coffee table ver.2.package",
+        "[KKB'sMM]Citrus Room- Curtain 2x3.package",
+        "[KKB'sMM]Citrus Room- Curtain 2x4.package",
+        "[KKB'sMM]Citrus Room- Curtain 3x3.package",
+        "[KKB'sMM]Citrus Room- Curtain 4x3.package",
+        "[KKB'sMM]Citrus Room- Cushion ver.1.package",
+        "[KKB'sMM]Citrus Room- Cushion ver.2.package",
+        "[KKB'sMM]Citrus Room- Delivery box.package",
+        "[KKB'sMM]Citrus Room- Desk calendar.package",
+        "[KKB'sMM]Citrus Room- Fabric storage box ver.1.package",
+        "[KKB'sMM]Citrus Room- Fabric storage box ver.2.package",
+        "[KKB'sMM]Citrus Room- File rack ver.1.package",
+        "[KKB'sMM]Citrus Room- File rack ver.2.package",
+        "[KKB'sMM]Citrus Room- Flower cushion ver.1.package",
+        "[KKB'sMM]Citrus Room- Flower cushion ver.2.package",
+        "[KKB'sMM]Citrus Room- Frame ver.1.package",
+        "[KKB'sMM]Citrus Room- Frame ver.2.package",
+        "[KKB'sMM]Citrus Room- Loveseat.package",
+        "[KKB'sMM]Citrus Room- Mini Coffee table.package",
+        "[KKB'sMM]Citrus Room- Paintings.package",
+        "[KKB'sMM]Citrus Room- Samsung The Serif ver.1.package",
+        "[KKB'sMM]Citrus Room- Samsung The Serif ver.2.package",
+        "[KKB'sMM]Citrus Room- Shelf ver.1.package",
+        "[KKB'sMM]Citrus Room- Shelf ver.2.package",
+        "[KKB'sMM]Citrus Room- Sofa.package",
+        "[KKB'sMM]Citrus Room- Storage box ver.1.package",
+        "[KKB'sMM]Citrus Room- Storage box ver.2.package",
+        "[KKB'sMM]Citrus Room- Wooden house clutter ver.1.package",
+        "[KKB'sMM]Citrus Room- Wooden house clutter ver.2.package",
+        "[KKB'sMM]Citrus Room- Wooden tree clutter ver.1.package",
+        "[KKB'sMM]Citrus Room- Wooden tree clutter ver.2.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 40
     },
     {
       "name": "Core Library",
@@ -174,8 +416,11 @@
       "subcategory": "Quality of life",
       "url": "https://lot51.cc/mods/core-library",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "lot51_core.ts4script"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 1
     },
     {
       "name": "Rambunctious Religions",
@@ -184,8 +429,27 @@
       "subcategory": "Gameplay",
       "url": "https://lumpinoumods.com/2020/10/20/rambunctious-religions/",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "Lumpinou_RambunctiousReligions.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 1
+    },
+    {
+      "name": "Hijab Collection 13",
+      "creator": "marsmerizingsims",
+      "category": "Clothing & accessories",
+      "subcategory": "Accessories",
+      "url": "https://www.patreon.com/marsmerizingsims/posts/hijab-collection-108173814",
+      "essential": false,
+      "included": [
+        "MARSMERIZING_Hijab Col.13_Bailey Hair_Hijab 78.package",
+        "MARSMERIZING_Hijab Col.13_Farah_Hijab 76.package",
+        "MARSMERIZING_Hijab Col.13_Hind_Hijab 77.package",
+        "MARSMERIZING_Hijab Col.13_Sabyan_Hijab 79.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 4
     },
     {
       "name": "Pyrus skinblend",
@@ -194,8 +458,72 @@
       "subcategory": "Skin blends",
       "url": "https://www.patreon.com/nesurii/posts/pyrus-default-109435520",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "NESURII_Pyrus_Skinoverlay-FH.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 1
+    },
+    {
+      "name": "NUNS set",
+      "creator": "pamplemoossims",
+      "category": "Build & Buy",
+      "subcategory": "Decorations",
+      "url": "https://www.curseforge.com/sims4/build-buy/nuns-set",
+      "essential": false,
+      "included": [
+        "NUNS_bed_pplm.package",
+        "NUNS_candleholder_pplm.package",
+        "NUNS_candle_pplm.package",
+        "NUNS_chest_pplm.package",
+        "NUNS_door base2_pplm.package",
+        "NUNS_hangingdress_pplm.package",
+        "NUNS_kneeler_pplm.package",
+        "NUNS_paperweight_pplm.package",
+        "NUNS_portraits_pplm.package",
+        "NUNS_relic1_pplm.package",
+        "NUNS_relic2_pplm.package",
+        "NUNS_Rosary1_pplm.package",
+        "NUNS_Rosary2_pplm.package",
+        "NUNS_sacredbook1_pplm.package",
+        "NUNS_sacredbook2_pplm.package",
+        "NUNS_smallcross1_pplm.package",
+        "NUNS_smallcross2_pplm.package",
+        "NUNS_wallart2_pplm.package",
+        "NUNS_wallart_pplm.package",
+        "NUNS_wallbigcross_pplm.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 20
+    },
+    {
+      "name": "Get to Church Stuff Pack",
+      "creator": "pandorasimbox",
+      "category": "Build & Buy",
+      "subcategory": "Furniture",
+      "url": "https://www.patreon.com/pandorasimbox/posts/get-to-church-39382820",
+      "essential": false,
+      "included": [
+        "PSB_BB_BelovedHymnal_Deco.package",
+        "PSB_BB_BigBerthaChurchOrgan_BGPiano.package",
+        "PSB_BB_BigBerthaChurchOrgan_Organ_VampiresEP.package",
+        "PSB_BB_CollectionBasket_Leaning_Deco.package",
+        "PSB_BB_CollectionBasket_Lying_Deco.package",
+        "PSB_BB_HolierThanThouWallPlaque_WallDeco.package",
+        "PSB_BB_HumbleHandHewnPew_Bench.package",
+        "PSB_BB_JustAFlickerAltarCandle_Lighting.package",
+        "PSB_BB_LoavesandFishesAltar_Sidetable.package",
+        "PSB_BB_NewPew_Loveseat.package",
+        "PSB_BB_OrnateBaptismalFont_Deco.package",
+        "PSB_BB_PetersPlusherPew_Loveseat.package",
+        "PSB_BB_PsalmTapestries_WallDeco.package",
+        "PSB_BB_RestoredPeteranPulpit_WeddingArch.package",
+        "PSB_BB_SongsofPraiseHymnBoard_WallDeco.package",
+        "PSB_BB_TheMinistersBible_Deco.package",
+        "PSB_BB_WeatherPrayerKneeler_Deco.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 17
     },
     {
       "name": "Photographic Memory 2.0",
@@ -204,235 +532,304 @@
       "subcategory": "Gameplay",
       "url": "https://ravasheen.com/download/photographic-memory-2-0/",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "RVSN_PhotographicMemoryMod_2_1_3.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 1
+    },
+    {
+      "name": "(G)I-DLE – TOMBOY Outfit",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "https://www.patreon.com/posts/rimings-g-i-dle-66239625",
+      "essential": false,
+      "included": [
+        "[RIMINGS] (G)I-DLE - TOMBOY Outfit _Arm Warmer.package",
+        "[RIMINGS] (G)I-DLE - TOMBOY Outfit _Necklace.package",
+        "[RIMINGS] (G)I-DLE - TOMBOY Outfit _Skirt.package",
+        "[RIMINGS] (G)I-DLE - TOMBOY Outfit _Top.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 4
     },
     {
       "name": "Blush Crush Collection",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-blush-153817150",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Asymmetric Off-Shoulder Top",
-        "Belted Midi Denim Skirt"
-      ]
+        "[RIMINGS] Blush Crush Collection _Asymmetric Off-Shoulder Top.package",
+        "[RIMINGS] Blush Crush Collection _Belted Midi Denim Skirt.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
     },
     {
       "name": "Classic Affinity Set",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-classic-161422239",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Bustier & Tie-Neck Blouse"
-      ]
+        "[RIMINGS] Classic Affinity Set _Bustier & Tie-Neck Blouse.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 1
     },
     {
       "name": "Dilemma",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-dilemma-163042571",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Crystal Flower Earrings",
-        "Lace V-neck Puff Maxi Dress",
-        "Pearl Flower Earrings",
-        "Tube Square Maxi Dress"
-      ]
+        "[RIMINGS] Dilemma _Crystal Flower Earrings.package",
+        "[RIMINGS] Dilemma _Lace V-neck Puff Maxi Dress.package",
+        "[RIMINGS] Dilemma _Pearl Flower Earrings.package",
+        "[RIMINGS] Dilemma _Tube Square Maxi Dress.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 4
+    },
+    {
+      "name": "DUN DUN DANCE Outfit",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-dun-dun-51394006",
+      "essential": false,
+      "included": [
+        "[RIMINGS] DUN DUN DANCE JIHO Outfit _Jeans.package",
+        "[RIMINGS] DUN DUN DANCE JIHO Outfit _TOP.package",
+        "[RIMINGS] DUN DUN DANCE YooA Outfit _PANTS.package",
+        "[RIMINGS] DUN DUN DANCE YooA Outfit _TOP.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 4
     },
     {
       "name": "Easy Day Stripe Set",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-easy-day-152380126",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Belted Wide Jeans",
-        "Layered T-Shirt"
-      ]
+        "[RIMINGS] Easy Day Stripe Set _Belted Wide Jeans.package",
+        "[RIMINGS] Easy Day Stripe Set _Layered T-Shirt.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
     },
     {
       "name": "Easy Flow Pilates Set",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-easy-set-151869246",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Cardigan Top",
-        "Flare Pants",
-        "Heart Cutout Flare Pants",
-        "Heart Cutout Sleeveless Top"
-      ]
+        "[RIMINGS] Easy Flow Pilates Set _Cardigan Top.package",
+        "[RIMINGS] Easy Flow Pilates Set _Flare Pants.package",
+        "[RIMINGS] Easy Flow Pilates Set _Heart Cutout Flare Pants.package",
+        "[RIMINGS] Easy Flow Pilates Set _Heart Cutout Sleeveless Top.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 4
     },
     {
       "name": "Everyday Accent",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-everyday-162486609",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Asymmetric Shirring Long-sleeve",
-        "Frill Short Denim",
-        "Short-sleeved shirt",
-        "Shoulder Shirring Top"
-      ]
+        "[RIMINGS] Everyday Accent _Asymmetric Shirring Long-sleeve.package",
+        "[RIMINGS] Everyday Accent _Frill Short Denim.package",
+        "[RIMINGS] Everyday Accent _Short-sleeved shirt.package",
+        "[RIMINGS] Everyday Accent _Shoulder Shirring Top.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 4
     },
     {
       "name": "Garden of Moments",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-garden-158052543",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Jewel Drop Earrings",
-        "Shirring Layered Dress",
-        "Slim Backless Maxi Dress"
-      ]
+        "[RIMINGS] Garden of Moments _Jewel Drop Earrings.package",
+        "[RIMINGS] Garden of Moments _Shirring Layered Dress.package",
+        "[RIMINGS] Garden of Moments _Slim Backless Maxi Dress.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 3
+    },
+    {
+      "name": "Korean Traditional Costume – Hanbok & Binyeo",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Full-body outfits",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-korean-56343805",
+      "essential": false,
+      "included": [
+        "[RIMINGS] Korean Traditional Costume _Hanbok.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 1
     },
     {
       "name": "Midnight in Paris",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-midnight-159635282",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Gold Button Jacket Dress",
-        "Shirt Layered Dress"
-      ]
+        "[RIMINGS] Midnight in Paris _Gold Button Jacket Dress.package",
+        "[RIMINGS] Midnight in Paris _Shirt Layered Dress.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
     },
     {
       "name": "NEW GIFT BOX 39",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/new-gift-box-39-154602506",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Blazer & Pleated Skirt",
-        "Cameo Earring",
-        "Drop Earring",
-        "Heart Neck Midi Dress"
-      ]
+        "[RIMINGS] NEW GIFT BOX 39 _Blazer & Pleated Skirt (1).package",
+        "[RIMINGS] NEW GIFT BOX 39 _Blazer & Pleated Skirt.package",
+        "[RIMINGS] NEW GIFT BOX 39 _Cameo Earring (1).package",
+        "[RIMINGS] NEW GIFT BOX 39 _Cameo Earring.package",
+        "[RIMINGS] NEW GIFT BOX 39 _Drop Earring (1).package",
+        "[RIMINGS] NEW GIFT BOX 39 _Drop Earring.package",
+        "[RIMINGS] NEW GIFT BOX 39 _Heart Neck Midi Dress (1).package",
+        "[RIMINGS] NEW GIFT BOX 39 _Heart Neck Midi Dress.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 8
     },
     {
       "name": "NEW GIFT BOX 41",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/new-gift-box-41-159919798",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Seashell Earrings",
-        "Seashell Halter Bikini",
-        "Seashell Halter Two-piece",
-        "Starfish Earrings",
-        "Starfish Maxi Dress",
-        "Starfish Monokini"
-      ]
+        "[RIMINGS] NEW GIFT BOX 41 _Seashell Earrings.package",
+        "[RIMINGS] NEW GIFT BOX 41 _Seashell Halter Bikini.package",
+        "[RIMINGS] NEW GIFT BOX 41 _Seashell Halter Two-piece.package",
+        "[RIMINGS] NEW GIFT BOX 41 _Starfish Earrings.package",
+        "[RIMINGS] NEW GIFT BOX 41 _Starfish Maxi Dress.package",
+        "[RIMINGS] NEW GIFT BOX 41 _Starfish Monokini.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 6
+    },
+    {
+      "name": "NEW GIFT BOX 7",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-new-gift-87123233",
+      "essential": false,
+      "included": [
+        "[RIMINGS] NEW GIFT BOX 7 _Earring ver.1.package",
+        "[RIMINGS] NEW GIFT BOX 7 _Earring ver.2.package",
+        "[RIMINGS] NEW GIFT BOX 7 _Dress ver.1.package",
+        "[RIMINGS] NEW GIFT BOX 7 _Earring ver.1.package",
+        "[RIMINGS] NEW GIFT BOX 7 _Earring ver.2.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 5
     },
     {
       "name": "Salty Breeze",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-salty-164718102",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Gold Stud Earring",
-        "Ruffle Tie-front Crop & Skirt",
-        "Stone Drop Earring",
-        "Tie-front Crop & Maxi Skirt"
-      ]
+        "[RIMINGS] Salty Breeze _Gold Stud Earring.package",
+        "[RIMINGS] Salty Breeze _Ruffle Tie-front Crop & Skirt.package",
+        "[RIMINGS] Salty Breeze _Stone Drop Earring.package",
+        "[RIMINGS] Salty Breeze _Tie-front Crop & Maxi Skirt.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 4
     },
     {
       "name": "Soft Silhouette Edit",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-soft-153339289",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Halter Neck Midi Dress",
-        "Off-Shoulder Knit Dress",
-        "Side Shirring Dress"
-      ]
+        "[RIMINGS] Soft Silhouette Edit _Halter Neck Midi Dress.package",
+        "[RIMINGS] Soft Silhouette Edit _Off-Shoulder Knit Dress.package",
+        "[RIMINGS] Soft Silhouette Edit _Side Shirring Dress.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 3
     },
     {
       "name": "The Classic Office",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-classic-166484185",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Double-Breasted Two-piece",
-        "Unbalance Minimal Two-piece"
-      ]
+        "[RIMINGS] The Classic Office _Double-Breasted Two-piece.package",
+        "[RIMINGS] The Classic Office _Unbalance Minimal Two-piece.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
     },
     {
       "name": "The Piano & Symphony",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-piano-164168649",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Button Knit Top & Shirt",
-        "Mini Pleated Skirt",
-        "Plaid Skirt",
-        "Vest & Puff Sleeve Shirt"
-      ]
+        "[RIMINGS] The Piano & Symphony _Button Knit Top & Shirt.package",
+        "[RIMINGS] The Piano & Symphony _Mini Pleated Skirt.package",
+        "[RIMINGS] The Piano & Symphony _Plaid Skirt.package",
+        "[RIMINGS] The Piano & Symphony _Vest & Puff Sleeve Shirt.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 4
     },
     {
       "name": "Urban Sporty Setup Set",
       "creator": "RIMINGS",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/RIMINGs/posts/rimings-urban-154306418",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Crop Tank Top",
-        "Training Pants"
-      ]
+        "[RIMINGS] Urban Sporty Setup Set _Crop Tank Top.package",
+        "[RIMINGS] Urban Sporty Setup Set _Training Pants.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
     },
     {
       "name": "Teleport Any Sim",
@@ -441,30 +838,119 @@
       "subcategory": "Quality of life",
       "url": "https://scumbumbomods.com/teleport-any-sim",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "MTS_Scumbumbo_TeleportAnySim.package",
+        "MTS_Scumbumbo_TeleportAnySim_Script.ts4script"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
+    },
+    {
+      "name": "Milla Boots",
+      "creator": "Sentate",
+      "category": "Clothing & accessories",
+      "subcategory": "Shoes",
+      "url": "https://www.curseforge.com/sims4/create-a-sim/milla-boots",
+      "essential": false,
+      "included": [
+        "Sentate-2023-MillaBoots.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 1
     },
     {
       "name": "The Memo Collection",
       "creator": "Sentate",
       "category": "Clothing & accessories",
-      "subcategory": "Collection",
+      "subcategory": "Other",
       "url": "https://www.patreon.com/sentate/posts/memo-collection-153273180",
       "essential": false,
-      "sims": [],
-      "builds": [],
       "included": [
-        "Gwen Mini Skirt",
-        "Gwen Pants",
-        "Gwen Shirt",
-        "Gwen Shirt Overlay Rings",
-        "Kim Suit",
-        "Kim Suit Overlay Rings",
-        "Kim Suit Pants",
-        "Monique Pumps",
-        "Plum Blouse",
-        "Plum Skirt"
-      ]
+        "Sentate-2026-GwenMiniSkirt.package",
+        "Sentate-2026-GwenPants.package",
+        "Sentate-2026-GwenShirt.package",
+        "Sentate-2026-GwenShirt_Overlay_Rings.package",
+        "Sentate-2026-KimSuit.package",
+        "Sentate-2026-KimSuit_Overlay_Rings.package",
+        "Sentate-2026-KimSuit_Pants.package",
+        "Sentate-2026-MoniquePumps.package",
+        "Sentate-2026-PlumBlouse.package",
+        "Sentate-2026-PlumSkirt.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 10
+    },
+    {
+      "name": "Incheon Basics",
+      "creator": "SIMANDY",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "https://www.patreon.com/simmandy/posts/oh-my-god-were-58952703",
+      "essential": false,
+      "included": [
+        "SIMANDY_Dae_Blush.package",
+        "SIMANDY_Eun_Eyeshadow.package",
+        "SIMANDY_Gi_Boots.package",
+        "SIMANDY_Hyeon_Pants_Merged.package",
+        "SIMANDY_IncheonBasics_Pack_Merged.package",
+        "SIMANDY_Seok_Hoodies_Merged.package",
+        "SIMANDY_Seung_Sweater.package",
+        "SIMANDY_Yuna_Dress.package",
+        "SIMANDY_Eui_Eyeliner.package",
+        "SIMANDY_Iseul_Hair.package",
+        "SIMANDY_Jae_Hair.package",
+        "SIMANDY_Mina_Lipstick.package",
+        "SIMANDY_Nabi_Hair.package",
+        "SIMANDY_Nari_Hair.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 14
+    },
+    {
+      "name": "Religious Conversion Requests Set",
+      "creator": "SimderTalia",
+      "category": "Build & Buy",
+      "subcategory": "Decorations",
+      "url": "https://www.patreon.com/simdertalia/posts/religious-set-114546819",
+      "essential": false,
+      "included": [
+        "simdertalia_religiousconversions_christbust.package",
+        "simdertalia_religiousconversions_katvip2to4_christcrossstatue.package",
+        "simdertalia_religiousconversions_katvip2to4_irongate.package",
+        "simdertalia_religiousconversions_katvip2to4_madonnastatueL.package",
+        "simdertalia_religiousconversions_katvip2to4_madonnastatueS.package",
+        "simdertalia_religiousconversions_lisen3to4_crucifix.package",
+        "simdertalia_religiousconversions_ninthwave2to4_madonnaandchildstatue.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 7
+    },
+    {
+      "name": "Contemporary Haven",
+      "creator": "Syboulette",
+      "category": "Build & Buy",
+      "subcategory": "Furniture",
+      "url": "https://s4cc.syboulette.fr/contemporary-haven-sofa-cc-sims-4/",
+      "essential": false,
+      "included": [
+        "SYB_Contemporary_End_table.package",
+        "SYB_Contemporary_Haven_Console.package",
+        "SYB_Contemporary_Haven_Floor_art.package",
+        "SYB_Contemporary_Haven_Floor_lamp.package",
+        "SYB_Contemporary_Haven_Hifi_System.package",
+        "SYB_Contemporary_Haven_large_coffee_table.package",
+        "SYB_Contemporary_Haven_Leather_Togo_Armchair.package",
+        "SYB_Contemporary_Haven_Rug.package",
+        "SYB_Contemporary_Haven_small_coffee_table.package",
+        "SYB_Contemporary_Haven_sofa_3p_left.package",
+        "SYB_Contemporary_Haven_sofa_3p_right.package",
+        "SYB_Contemporary_Haven_Speaker.package",
+        "SYB_Contemporary_Haven_Square_Stone_Wallpaper.package",
+        "SYB_Contemporary_Haven_Surface_frames.package",
+        "SYB_Contemporary_Haven_Wall_art.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 15
     },
     {
       "name": "Silky veil skin overlay",
@@ -473,8 +959,11 @@
       "subcategory": "Skin blends",
       "url": "https://www.thesimsresource.com/members/thisisthem/downloads/details/category/sims4-skintones/title/silky-veil-skin-overlay/id/1780600/",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "[ttzh]silkyveil_skinoverlay.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 1
     },
     {
       "name": "T.O.O.L.",
@@ -483,8 +972,12 @@
       "subcategory": "Building tools",
       "url": "https://twistedmexi.com/Mods/",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "Tmex-TOOL.package",
+        "Tmex-TOOL.ts4script"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
     },
     {
       "name": "Social Variety",
@@ -493,8 +986,14 @@
       "subcategory": "Autonomy",
       "url": "https://www.curseforge.com/sims4/mods/social-variety",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "tyjokr_SocialVariety_InteractionCooldowns.package",
+        "tyjokr_SocialVariety_MoreAutonomousSocials.package",
+        "tyjokr_SocialVariety_SensibleAutonomy.package",
+        "tyjokr_SocialVariety_SensibleInteractions.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 4
     },
     {
       "name": "100 Base Game Traits Pack V1",
@@ -503,8 +1002,11 @@
       "subcategory": "Gameplay",
       "url": "https://www.curseforge.com/sims4/mods/the-100-base-game-traits-pack-v1",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "chingyu_100TraitsV1_DefaultStrings_DO_NOT_REMOVE.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 1
     },
     {
       "name": "Zodiac Signs Mod",
@@ -513,8 +1015,1906 @@
       "subcategory": "Gameplay",
       "url": "https://sites.google.com/view/vickysims/traits/zodiac",
       "essential": false,
-      "sims": [],
-      "builds": []
+      "included": [
+        "!chingyu_addon_ZodiacAvailableInCAS.package",
+        "!chingyu_addon_ZodiacStrongerCompatibility.package",
+        "!chingyu_addon_ZodiacSubtleCompatibility.package",
+        "chingyu_addon_GrowUpAddSignsBySeasons_EP05.package",
+        "chingyu_addon_GrowUpAddSignsRandomly.package",
+        "chingyu_addon_ZodiacSignAutoSwitchVersion.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 6
+    },
+    {
+      "name": "Bad Dream Turtleneck",
+      "creator": "xiuminuwu",
+      "category": "Clothing & accessories",
+      "subcategory": "Tops",
+      "url": "https://www.patreon.com/xiuminuwu/posts/simblreen-bad-91345850",
+      "essential": false,
+      "included": [
+        "[xiuminuwu]_Bad_Dream_Turtleneck.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 1
+    },
+    {
+      "name": "Blooming Days Set",
+      "creator": "xiuminuwu",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "https://www.patreon.com/xiuminuwu/posts/blooming-days-109533920",
+      "essential": false,
+      "included": [
+        "xiuminuwu_Blooming_Days_Checkered_Pants.package",
+        "xiuminuwu_Blooming_Days_Hoodie.package",
+        "xiuminuwu_Blooming_Days_Necklace.package",
+        "xiuminuwu_Blooming_Days_Pants.package",
+        "xiuminuwu_Blooming_Days_Suit_Jacket.package",
+        "xiuminuwu_Blooming_Days_Sweatshirt.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 6
+    },
+    {
+      "name": "Chaotic Party Suit",
+      "creator": "xiuminuwu",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "https://www.patreon.com/xiuminuwu/posts/chaotic-party-118675831",
+      "essential": false,
+      "included": [
+        "xiuminuwu_Chaotic_Party_Suit_Jacket.package",
+        "xiuminuwu_Chaotic_Party_Suit_Pants.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
+    },
+    {
+      "name": "Essence of Reverie Set",
+      "creator": "xiuminuwu",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "https://www.patreon.com/xiuminuwu/posts/essence-of-set-134713977",
+      "essential": false,
+      "included": [
+        "xiuminuwu_Elevator_Hoodie.package",
+        "xiuminuwu_Elevator_Hoodie_T_Shirt_Overlay.package",
+        "xiuminuwu_Elevator_Pant_Chain.package",
+        "xiuminuwu_Elevator_Shorts.package",
+        "xiuminuwu_Elevator_Shorts_V2.package",
+        "xiuminuwu_Essence_Dress_Pants.package",
+        "xiuminuwu_Essence_Tucked_Shirt.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 7
+    },
+    {
+      "name": "First Love Collection",
+      "creator": "xiuminuwu",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "https://www.patreon.com/xiuminuwu/posts/first-love-94064613",
+      "essential": false,
+      "included": [
+        "[xiuminuwu]_First_Love_Corduroy_Pants.package",
+        "[xiuminuwu]_First_Love_Varsity_Jacket_V1.package",
+        "[xiuminuwu]_First_Love_Varsity_Jacket_V2.package",
+        "[xiuminuwu]_First_Love_Varsity_Jacket_V2_Hoodie_Overlay.package",
+        "[xiuminuwu]_First_Love_V_Neck_With_Tie.package",
+        "[xiuminuwu]_First_Love_V_Neck_With_Tie_Overlay.package",
+        "[xiuminuwu]_Poppin_Jeans.package",
+        "[xiuminuwu]_Poppin_Windbreaker.package",
+        "[xiuminuwu]_Poppin_Windbreaker_T-Shirt_Overlay.package",
+        "[xiuminuwu]_Poppin_Windbreaker_V2.package",
+        "[xiuminuwu]_Tender_Love_Hoodie.package",
+        "[xiuminuwu]_Tender_Love_Pants.package",
+        "[xiuminuwu]_Tender_Love_Polo.package",
+        "[xiuminuwu]_Tender_Love_Suit_And_Polo.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 14
+    },
+    {
+      "name": "Love Scene Cardigan",
+      "creator": "xiuminuwu",
+      "category": "Clothing & accessories",
+      "subcategory": "Tops",
+      "url": "https://www.patreon.com/xiuminuwu/posts/simblreen-love-91346270",
+      "essential": false,
+      "included": [
+        "[xiuminuwu]_Love_Scene_Cardigan_V1.package",
+        "[xiuminuwu]_Love_Scene_Cardigan_V2.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
+    },
+    {
+      "name": "Love Shot Suits",
+      "creator": "xiuminuwu",
+      "category": "Clothing & accessories",
+      "subcategory": "Full-body outfits",
+      "url": "https://www.patreon.com/xiuminuwu/posts/love-shot-suits-150846036",
+      "essential": false,
+      "included": [
+        "xiuminuwu_Love_Shot_Jumpsuit (1).package",
+        "xiuminuwu_Love_Shot_Suit_Jacket_V1 (1).package",
+        "xiuminuwu_Love_Shot_Suit_Jacket_V2 (1).package",
+        "xiuminuwu_Love_Shot_Suit_Jacket_V3 (1).package",
+        "xiuminuwu_Love_Shot_Suit_Jacket_V3_Overlay (1).package",
+        "xiuminuwu_Love_Shot_Suit_Jacket_V4 (1).package",
+        "xiuminuwu_Love_Shot_Suit_Jacket_V4_Overlay (1).package",
+        "xiuminuwu_Love_Shot_Suit_Jacket_V5 (1).package",
+        "xiuminuwu_Love_Shot_Suit_Jacket_V6 (1).package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 9
+    },
+    {
+      "name": "Rebel Jacket Set",
+      "creator": "xiuminuwu",
+      "category": "Clothing & accessories",
+      "subcategory": "Tops",
+      "url": "https://www.patreon.com/xiuminuwu/posts/rebel-jacket-set-147030480",
+      "essential": false,
+      "included": [
+        "xiuminuwu_Rebel_Asymmetrical_Jacket.package",
+        "xiuminuwu_Rebel_Jacket.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 2
+    },
+    {
+      "name": "WHEE! Suit Set",
+      "creator": "xiuminuwu",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "https://www.patreon.com/xiuminuwu/posts/whee-suit-set-123339883",
+      "essential": false,
+      "included": [
+        "xiuminuwu_WHEE_Suit_Jacket.package",
+        "xiuminuwu_WHEE_Suit_Pants.package",
+        "xiuminuwu_WHEE_Tie_Overlay.package"
+      ],
+      "creditStatus": "linked",
+      "fileCount": 3
+    },
+    {
+      "name": "CandySims4 — additional installed CC",
+      "creator": "CandySims4",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/candysims4",
+      "essential": false,
+      "included": [
+        "CandySims4-AllinOneComputer.package",
+        "CandySims4-EssentialsHolder.package",
+        "CandySims4-LoveSongHeadset.package",
+        "CandySims4-MountainBooks.package",
+        "CandySims4-SimplePlant.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 5
+    },
+    {
+      "name": "cemeterybrat — additional installed CC",
+      "creator": "cemeterybrat",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/cemeterybrat",
+      "essential": false,
+      "included": [
+        "[cemeterybrat] blessed candles.package",
+        "[cemeterybrat] devotion rugs.package",
+        "[cemeterybrat] hallowed crosses.package",
+        "[cemeterybrat] sacred paintings.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 4
+    },
+    {
+      "name": "dollish — unlinked installed files",
+      "creator": "dollish (filename attribution)",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[dollish] Lime Light Living Room-Books.package",
+        "[dollish] Lime Light Living Room-Chandelier.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 2
+    },
+    {
+      "name": "GoldFish — unlinked installed files",
+      "creator": "GoldFish (filename attribution)",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "GoldFish wall paint scandinavia.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "honeymoonsimmer — additional installed CC",
+      "creator": "honeymoonsimmer",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/honeymoonsimmer/sitemap",
+      "essential": false,
+      "included": [
+        "honeymoonsimmer - lived in bed kids version.package",
+        "honeymoonsimmer - moonchaser bed recolor.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 2
+    },
+    {
+      "name": "Joyceisfox — additional installed CC",
+      "creator": "Joyceisfox",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.curseforge.com/members/joyceisfox/projects",
+      "essential": false,
+      "included": [
+        "[Joyce]Simple Live - Circular Deco.package",
+        "[Joyce]Simple Live - Cozy Pillow.package",
+        "[Joyce]Simple Live - Cozy Tofu Sofa 2.package",
+        "[Joyce]Simple Live - Cozy Tofu Sofa 3.package",
+        "[Joyce]Simple Live - Cream Bar Table.package",
+        "[Joyce]Simple Live - Cream Cloud Coffee Table.package",
+        "[Joyce]Simple Live - Desktop Bracket.package",
+        "[Joyce]Simple Live - Elevated Taste Plant.package",
+        "[Joyce]Simple Live - Knot Pillow.package",
+        "[Joyce]Simple Live - Magazine On The Sofa.package",
+        "[Joyce]Simple Live - Magazine.package",
+        "[Joyce]Simple Live - Patio Paradise Planter.package",
+        "[Joyce]Simple Live - Pleated Moon Floor Lamp.package",
+        "[Joyce]Simple Live - Tofu Leather Bar Chair.package",
+        "[Joyce]Simple Live - Tofu Leather Dining Chair.package",
+        "[Joyce]Simple Live - Wine Glass.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 16
+    },
+    {
+      "name": "myshunosun — additional installed CC",
+      "creator": "myshunosun",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/myshunosun/home",
+      "essential": false,
+      "included": [
+        "myshunosun-2023-simmify-part-2-book-clutter-1.package",
+        "myshunosun-2023-simmify-part-2-book-clutter-2.package",
+        "myshunosun-2023-simmify-part-2-concrete-shelf.package",
+        "myshunosun-2023-simmify-part-2-floor-lamp.package",
+        "myshunosun-2023-simmify-part-2-framed-poster.package",
+        "myshunosun-2023-simmify-part-2-potted-palm.package",
+        "myshunosun-2023-simmify-part-2-succulent.package",
+        "myshunosun-2023-simmify-part-2-upright-piano.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 8
+    },
+    {
+      "name": "NICKNAME — unlinked installed files",
+      "creator": "NICKNAME (filename attribution)",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[NICKNAME] acoustic guitar.package",
+        "[NICKNAME] electronic piano(DLC).package",
+        "[NICKNAME] electronic piano.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 3
+    },
+    {
+      "name": "Pierisim — additional installed CC",
+      "creator": "Pierisim",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/pierisim/sitemap",
+      "essential": false,
+      "included": [
+        "Pierisim_DAVID_apartment_part1_MERGED.package",
+        "Pierisim_DAVID_apartment_part3_MERGED.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 2
+    },
+    {
+      "name": "plutosims — unlinked installed files",
+      "creator": "plutosims (filename attribution)",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "plutosims_TurnItUp_part1.package",
+        "plutosims_TurnItUp_part2.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 2
+    },
+    {
+      "name": "Sierra The Simmer — additional installed CC",
+      "creator": "Sierra The Simmer",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/sierrathesimmer",
+      "essential": false,
+      "included": [
+        "[Sierra The Simmer] Custom Tufted Rug Set.package",
+        "[Sierra The Simmer] Random Tufted Rug II.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 2
+    },
+    {
+      "name": "Tamsie — additional installed CC",
+      "creator": "Tamsie",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/Tamsie/collections",
+      "essential": false,
+      "included": [
+        "[Tamsie]CozyBed.package",
+        "[Tamsie]DollHouse_and_DollHouseLamp(TinyTales)_MERGED.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 2
+    },
+    {
+      "name": "Unidentified files — Other",
+      "creator": "",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "BeWaterBottle.package",
+        "CarvedStoneNicheLamp.package",
+        "CarvedWoodTray.package",
+        "CrescentLoungeDaybed.package",
+        "EssentialOilEssentials.package",
+        "GlasCandle.package",
+        "HangingShelf.package",
+        "HARRIE_Coastal_Part_Eight_MERGED.package",
+        "HeraSims_Cocoon Office desk chair.package",
+        "heybrine_cozy_nook_pack_merged.package",
+        "HoneyCup.package",
+        "InnerCircleRug.package",
+        "LBB_GranniesCookbook_17-11-2025.package",
+        "linacherie - max20 somfy living sofa rc.package",
+        "MellowMoodsBooks.package",
+        "MellowMoodsCandelabra.package",
+        "MellowMoodsCloset.package",
+        "MellowMoodsConsoleTable.package",
+        "MellowMoodsDiningTable.package",
+        "MellowMoodsStool.package",
+        "MoodCandles.package",
+        "Music ?orner Pack by MAX20.package",
+        "necrodog-broadcast-tuning.package",
+        "necrodog-functional-drums-2023.package",
+        "necrodog-functional-handpan-2023.package",
+        "necrodog-functional-kalimba-2023.package",
+        "necrodog-functional-panpipe-2023.package",
+        "necrodog-functional-saxophone-2023.package",
+        "necrodog-functional-transverse-flute-2023.package",
+        "necrodog-functional-upright-bass-2023.package",
+        "Opuwanoo_BG_BigIronCross.package",
+        "Oriental Rug.package",
+        "PreachingBuddha.package",
+        "s1mlxnxs - aesthetic posters.package",
+        "SensesDiffuser .package",
+        "SisalCushionTable.package",
+        "SmallFlowerVases.package",
+        "TallVase.package",
+        "TeaHoneyPlate.package",
+        "[SIMSIBOY]SimCore_PortableEdition.package",
+        "[SN902]GrungePosters_0111.package",
+        "[W] Orcaella Microphone.package",
+        "[xsavannahx987]Fairy Tale Single Bed.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 43
+    },
+    {
+      "name": "WistfulSpaces — unlinked installed files",
+      "creator": "WistfulSpaces (filename attribution)",
+      "category": "Build & Buy",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "WistfulSpaces_GiftSet_MERGED.package",
+        "WistfulSpaces_MERGED.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 2
+    },
+    {
+      "name": "arethabee — additional installed CC",
+      "creator": "arethabee",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/arethabee/sitemap",
+      "essential": false,
+      "included": [
+        "[arethabee] celine dress.package",
+        "[arethabee] celine heels.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 2
+    },
+    {
+      "name": "atomiclight — unlinked installed files",
+      "creator": "atomiclight (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "atomiclight Fog dress.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "Aurum — unlinked installed files",
+      "creator": "Aurum (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "Aurum_BloomTop_3Female.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "Babyetears — additional installed CC",
+      "creator": "Babyetears",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/babyetears",
+      "essential": false,
+      "included": [
+        "Babyetears_fBody_Ethelred_Mini_Dress (1).package",
+        "Babyetears_fBody_Mai_Long_Dress.package",
+        "Babyetears_fBody_Sofia_Midi_dress.package",
+        "Babyetears_fBody_Yuna_Short_Dress.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 4
+    },
+    {
+      "name": "Bobur — unlinked installed files",
+      "creator": "Bobur (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Accessories",
+      "url": "",
+      "essential": false,
+      "included": [
+        "Bobur Necklace 118 V2.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "BokchoiJo — additional installed CC",
+      "creator": "BokchoiJo",
+      "category": "Clothing & accessories",
+      "subcategory": "Accessories",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/BokchoiJoCC/sitemap",
+      "essential": false,
+      "included": [
+        "BokchoiJo_casual_hijab06.package",
+        "BokchoiJo_casual_hijab16.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 2
+    },
+    {
+      "name": "Boschiana CC — additional installed CC",
+      "creator": "Boschiana CC",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://boschianacc.com/",
+      "essential": false,
+      "included": [
+        "[Boschiana] Rough_SinBUniform.package",
+        "[Boschiana] Rough_SinBUniform_V2.package",
+        "[Boschiana] Rough_SinBUniform_V3.package",
+        "[Boschiana] Rough_SinBUniform_V4.package",
+        "[Boschiana] Rough_SoWonUniform_LongSleeves_V2.package",
+        "[Boschiana] Rough_SoWonUniform_LongSleeves_V3.package",
+        "[Boschiana] Rough_SoWonUniform_LongSleeves_V4.package",
+        "[Boschiana] Rough_SoWonUniform_ShortSleeves_V2.package",
+        "[Boschiana] Rough_SoWonUniform_ShortSleeves_V3.package",
+        "[Boschiana] Rough_SoWonUniform_ShortSleeves_V4.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 10
+    },
+    {
+      "name": "BSI — unlinked installed files",
+      "creator": "BSI (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Accessories",
+      "url": "",
+      "essential": false,
+      "included": [
+        "BSI_ACC_korean hairpin_binyeo_Veil.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "BSI — unlinked installed files",
+      "creator": "BSI (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "BSI_casual_hanbok.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "clumsyalien — additional installed CC",
+      "creator": "clumsyalien",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/clumsyalien/sitemap",
+      "essential": false,
+      "included": [
+        "CLUMSYALIEN [ALYSSA PANTS].package",
+        "CLUMSYALIEN [ASTRID SKIRT].package",
+        "CLUMSYALIEN [AVONLEA T-SHIRT].package",
+        "CLUMSYALIEN [BEATRIX SWEATER].package",
+        "CLUMSYALIEN [BETSY JEANS].package",
+        "CLUMSYALIEN [BONNIE ROOTS ACCESSORY].package",
+        "CLUMSYALIEN [BUTTERCUP BLOUSE].package",
+        "CLUMSYALIEN [CLAIRE SKIRT].package",
+        "CLUMSYALIEN [CLOVER BLOUSE].package",
+        "CLUMSYALIEN [CORNELIUS JEANS].package",
+        "CLUMSYALIEN [DELANEY TOP].package",
+        "CLUMSYALIEN [ELEANOR SKIRT].package",
+        "CLUMSYALIEN [ELISA SKIRT].package",
+        "CLUMSYALIEN [ELLISON SWEATER].package",
+        "CLUMSYALIEN [EZRA CARDIGAN].package",
+        "CLUMSYALIEN [FLORENCE DRESS].package",
+        "CLUMSYALIEN [GWYNETH BLOUSE].package",
+        "CLUMSYALIEN [HAYLEY SWEATER].package",
+        "CLUMSYALIEN [HAZEL SWEATER].package",
+        "CLUMSYALIEN [JADA TOP].package",
+        "CLUMSYALIEN [KATIE TOP].package",
+        "CLUMSYALIEN [MACARON SKIRT].package",
+        "CLUMSYALIEN [MERINGUE BLOUSE].package",
+        "CLUMSYALIEN [NICOLE CARDIGAN].package",
+        "CLUMSYALIEN [NOEMI TOP].package",
+        "CLUMSYALIEN [NOLAN PANTS].package",
+        "CLUMSYALIEN [NYLA TOP].package",
+        "CLUMSYALIEN [ODELIA NECKLACE].package",
+        "CLUMSYALIEN [PARFAIT BLOUSE].package",
+        "CLUMSYALIEN [PEGGY SWEATER].package",
+        "CLUMSYALIEN [POLLY SHORTS].package",
+        "CLUMSYALIEN [RIDGE T-SHIRT].package",
+        "CLUMSYALIEN [RIDGE TOP].package",
+        "CLUMSYALIEN [SANDRA BLOUSE].package",
+        "CLUMSYALIEN [SHANNON SHORTS].package",
+        "CLUMSYALIEN [SIRIUS EARRINGS].package",
+        "CLUMSYALIEN [STEVIE SHORTS].package",
+        "CLUMSYALIEN [TAFFY SKIRT].package",
+        "CLUMSYALIEN [TAYLOR SKIRT].package",
+        "CLUMSYALIEN [VIVIENNE TOP].package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 40
+    },
+    {
+      "name": "Clumsytrait — unlinked installed files",
+      "creator": "Clumsytrait (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "Clumsytrait - Vienna tee.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "Clumsytraitt — unlinked installed files",
+      "creator": "Clumsytraitt (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "Clumsytraitt - Capri peplum Blouse.package",
+        "Clumsytraitt - Florence denim Mini.package",
+        "Clumsytraitt - Rome midi Skirt.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 3
+    },
+    {
+      "name": "Glitterberrysims — unlinked installed files",
+      "creator": "Glitterberrysims (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Accessories",
+      "url": "",
+      "essential": false,
+      "included": [
+        "Glitterberrysims- Hani Cross Necklace.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "GoldFish — unlinked installed files",
+      "creator": "GoldFish (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "GoldFish Trendy Jumpsuit.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "Gorilla Gorilla Gorilla — additional installed CC",
+      "creator": "Gorilla Gorilla Gorilla",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/gorillax3/sitemap",
+      "essential": false,
+      "included": [
+        "[Gorilla Gorilla Gorilla] Loose Denim Pants.package",
+        "[Gorilla Gorilla Gorilla] Loose Sweatshirt.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 2
+    },
+    {
+      "name": "grafity — unlinked installed files",
+      "creator": "grafity (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Accessories",
+      "url": "",
+      "essential": false,
+      "included": [
+        "grafity_EmyliaHeadScarf.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "KiaraZurk — unlinked installed files",
+      "creator": "KiaraZurk (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Accessories",
+      "url": "",
+      "essential": false,
+      "included": [
+        "KiaraZurk_LaceWeddingVeil.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "marsmerizingsims — additional installed CC",
+      "creator": "marsmerizingsims",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/marsmerizingsims/sitemap",
+      "essential": false,
+      "included": [
+        "MARSMERIZING_Veneti_Andrej_MTop - Copy.package",
+        "MARSMERIZING_Veneti_Andrej_MTop.package",
+        "MARSMERIZING_Veneti_Anseli Dress_Child - Copy.package",
+        "MARSMERIZING_Veneti_Anseli Dress_Child.package",
+        "MARSMERIZING_Veneti_Arnko_CTop - Copy.package",
+        "MARSMERIZING_Veneti_Arnko_CTop.package",
+        "MARSMERIZING_Veneti_HeadScarf 1 - Copy.package",
+        "MARSMERIZING_Veneti_HeadScarf 1.package",
+        "MARSMERIZING_Veneti_HeadScarf 2 - Copy.package",
+        "MARSMERIZING_Veneti_HeadScarf 2.package",
+        "MARSMERIZING_Veneti_HeadScarf 3 - Copy.package",
+        "MARSMERIZING_Veneti_HeadScarf 3.package",
+        "MARSMERIZING_Veneti_Kasia_FTop - Copy.package",
+        "MARSMERIZING_Veneti_Kasia_FTop.package",
+        "MARSMERIZING_Veneti_Katerina_FOutfit - Copy.package",
+        "MARSMERIZING_Veneti_Katerina_FOutfit.package",
+        "MARSMERIZING_Veneti_Andrej_MTop.package",
+        "MARSMERIZING_Veneti_Anseli Dress_Child.package",
+        "MARSMERIZING_Veneti_Arnko_CTop.package",
+        "MARSMERIZING_Veneti_HeadScarf 1.package",
+        "MARSMERIZING_Veneti_HeadScarf 2.package",
+        "MARSMERIZING_Veneti_HeadScarf 3.package",
+        "MARSMERIZING_Veneti_Kasia_FTop.package",
+        "MARSMERIZING_Veneti_Katerina_FOutfit.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 24
+    },
+    {
+      "name": "marsmerizingsims — additional installed CC",
+      "creator": "marsmerizingsims",
+      "category": "Clothing & accessories",
+      "subcategory": "Accessories",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/marsmerizingsims/sitemap",
+      "essential": false,
+      "included": [
+        "MARSMERIZING_Dahlia Hooded (COLOR SWATCH)_FHat (1).package",
+        "MARSMERIZING_Dahlia Hooded (COLOR SWATCH)_FHat.package",
+        "MARSMERIZING_Dahlia Hooded_FHair (1).package",
+        "MARSMERIZING_Richie HeadwraP (COLOR SWATCH)_FHat (1).package",
+        "MARSMERIZING_Richie HeadwraP (COLOR SWATCH)_FHat.package",
+        "MARSMERIZING_Richie Headwrap_FHair.package",
+        "MARSMERIZING_Sofia_Hijab 64.package",
+        "MARSMERIZING_Violet Headwrap_FHat.package",
+        "MARSMERIZING_Yazmine_Hijab 65.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 9
+    },
+    {
+      "name": "MIRO — additional installed CC",
+      "creator": "MIRO",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/mirosims2020",
+      "essential": false,
+      "included": [
+        "[MIRO]Mir Set_bottom.package",
+        "[MIRO]Mir Set_top+add-on.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 2
+    },
+    {
+      "name": "RIMINGS — additional installed CC",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/RIMINGs/sitemap",
+      "essential": false,
+      "included": [
+        "[RIMINGS] Belted Straight jeans.package",
+        "[RIMINGS] Chill & Cozy _Color-Block Buttoned Cardigan.package",
+        "[RIMINGS] Chill & Cozy _Layered Oversized Shirt.package",
+        "[RIMINGS] Chill & Cozy _Wide Denim Jeans.package",
+        "[RIMINGs] Floral Blouse.package",
+        "[RIMINGS] Knit Cami Top.package",
+        "[RIMINGS] Long Knit Cardigan & Knit Cami Top.package",
+        "[RIMINGS] Long-sleeved Silk Pajamas.package",
+        "[RIMINGS] NEW GIFT BOX 43 _Asymmetric Cutout Long Dress.package",
+        "[RIMINGS] NEW GIFT BOX 43 _High-Neck Slit Maxi Dress.package",
+        "[RIMINGS] NEW GIFT BOX 43 _Keyhole Cutout Maxi Dress.package",
+        "[RIMINGS] Off-shoulder Shirring Top.package",
+        "[RIMINGS] Short Sleeve T-shirt.package",
+        "[RIMINGS] Tomato & Lemonade _Denim Shorts.package",
+        "[RIMINGS] Tomato & Lemonade _One-Shoulder Unbalance Top.package",
+        "[RIMINGS] Tomato & Lemonade _Puff Sleeve Ruffle Top.package",
+        "[RIMINGS] Urban Hustle & Flow _Layered Cami Top.package",
+        "[RIMINGS] Urban Hustle & Flow _Layered Wide Sweatpants.package",
+        "[RIMINGS] [Plain Version] Off-shoulder Shirring Top.package",
+        "[RIMINGS] [Plain Version] Short Sleeve T-shirt.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 20
+    },
+    {
+      "name": "S-Club — unlinked installed files",
+      "creator": "S-Club (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Accessories",
+      "url": "",
+      "essential": false,
+      "included": [
+        "S-Club LL ts4 necklace  201916.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "Sentate — additional installed CC",
+      "creator": "Sentate",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/sentate",
+      "essential": false,
+      "included": [
+        "Sentate-2023-FayeDress.package",
+        "Sentate-2023-LottieDress.package",
+        "Sentate-2023-LunaDress.package",
+        "Sentate-2023-LunaTop.package",
+        "Sentate-2023-MaeveDress.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 5
+    },
+    {
+      "name": "SEOULSOUL — additional installed CC",
+      "creator": "SEOULSOUL",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/seoulsoul",
+      "essential": false,
+      "included": [
+        "[SEOULSOUL] 2024_#39_Baggy jeans+Belt.package",
+        "[SEOULSOUL] 2024_#39_Baggy jeans.package",
+        "[SEOULSOUL] 2024_#39_T-shirt.package",
+        "[SEOULSOUL] 2024_#39_Y2k Cap.package",
+        "[SEOULSOUL] 2025_#81_Pants.package",
+        "[SEOULSOUL] 2025_#81_Sleeveless+Cardigan.package",
+        "[SEOULSOUL] 2025_#81_Sleeveless.package",
+        "[SEOULSOUL] 2026_#157_Top V1.package",
+        "[SEOULSOUL] 2026_#157_Top V2.package",
+        "[SEOULSOUL] 2026_#157_Top V3 (Female).package",
+        "[SEOULSOUL] 2026_#157_Top V3.package",
+        "[SEOULSOUL] 2026_#168_Earrings V2.package",
+        "[SEOULSOUL] 2026_#168_Hair Clip 01.package",
+        "[SEOULSOUL] 2026_#168_Hair Clip 02.package",
+        "[SEOULSOUL] 2026_#168_Hair Clip 03.package",
+        "[SEOULSOUL] 2026_#168_Necklace.package",
+        "[SEOULSOUL] 2026_#168_Skirt V1.package",
+        "[SEOULSOUL] 2026_#168_Skirt V2.package",
+        "[SEOULSOUL] 2026_#168_Top.package",
+        "[SEOULSOUL] 2026_#179_Necklace V1.package",
+        "[SEOULSOUL] 2026_#179_Necklace V2.package",
+        "[SEOULSOUL] 2026_#179_Necklace V3.package",
+        "[SEOULSOUL] 2026_#179_Necklace V4.package",
+        "[SEOULSOUL] 2026_#179_Shorts.package",
+        "[SEOULSOUL] 2026_#179_Thong boots.package",
+        "[SEOULSOUL] 2026_#179_Top V1.package",
+        "[SEOULSOUL] 2026_#179_Top V2.package",
+        "[SEOULSOUL] 2026_#183_Dress V1.package",
+        "[SEOULSOUL] 2026_#183_Dress V2.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 29
+    },
+    {
+      "name": "simna — unlinked installed files",
+      "creator": "simna (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[simna] Goeun Hanbok.package",
+        "[simna] Goeun Hanbok_top overlay.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 2
+    },
+    {
+      "name": "SugarOwl — unlinked installed files",
+      "creator": "SugarOwl (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Accessories",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[SugarOwl] CrossMaleNecklace.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "TAUVE — unlinked installed files",
+      "creator": "TAUVE (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[TAUVE] CROSS CUT OUT TOP (M).package",
+        "[TAUVE] ROMANTIC GOTH BLOUSE (F).package",
+        "[TAUVE] SQUARES SKIRT (F).package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 3
+    },
+    {
+      "name": "Trillyke — additional installed CC",
+      "creator": "Trillyke",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/trillyke/sitemap",
+      "essential": false,
+      "included": [
+        "Trillyke_Bomb_Bomb_Accessory_Skirt_HQ.package",
+        "Trillyke_Cactus_Shorts_with_Harness.package",
+        "Trillyke_Get_Loud_Suit.package",
+        "Trillyke_Gogobebe_Flare_Pants.package",
+        "Trillyke_Senorita_Top.package",
+        "Trillyke_Take_Off_Pants.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 6
+    },
+    {
+      "name": "Unidentified files — Accessories",
+      "creator": "",
+      "category": "Clothing & accessories",
+      "subcategory": "Accessories",
+      "url": "",
+      "essential": false,
+      "included": [
+        "LadyFuSDX036HeadScarfAFCountry.package",
+        "LadyFuSDX036HeadScarfAFEA.package",
+        "LadyFuSDX036HeadScarfAFPattern.package",
+        "LadyFuSDX036HeadScarfAFPattern2.package",
+        "LadyFuSDX036HeadScarfAFSolid.package",
+        "MM-headscarf-v1-AF.package",
+        "MM-headscarf-v2-AF.package",
+        "PWFilonaNecklaceHQ.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 8
+    },
+    {
+      "name": "Unidentified files — Other",
+      "creator": "",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "(fangchuti)-Lalisa-LD2023-Outfits.package",
+        "BG_skating dress by Lindy – 32 color NEW.package",
+        "cc_star_Sheer_Boho_Top_129.package",
+        "Elliesimple_fTop_GirlfriendTee.package",
+        "Fifthscreations-Tallulah_Dress.package",
+        "JCB TATE JUMPSUIT.package",
+        "kikorobertocavalli05dress.package",
+        "Luxy_CrochetCollection_Vol_II_ShortDress.package",
+        "MelonSloth - Priest robes (mens).package",
+        "MysteriousOoDeepVAccentMiniDress1201.package",
+        "[DescargasSims] Naza Tank Top.package",
+        "[Lena] Infant Girl's Hanbok Jeogori.package",
+        "[Soli] Golden Star Dress (puff sleeves).package",
+        "?HUIEN- Carrie Necklace.package",
+        "?HUIEN- Estelle Dress.package",
+        "?HUIEN- Estelle Top.package",
+        "?HUIEN- Jeline Heels.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 17
+    },
+    {
+      "name": "Valentine — unlinked installed files",
+      "creator": "Valentine (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "Valentine_Dress_Lucille.package",
+        "Valentine_Dress_Sakie.package",
+        "Valentine_Dress_So-ra.package",
+        "Valentine_Pants_Suk-ja.package",
+        "Valentine_Skirt_Su-Mi.package",
+        "Valentine_Top_Si-eun.package",
+        "Valentine_Top_So-Yeon.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 7
+    },
+    {
+      "name": "WAEKEY — unlinked installed files",
+      "creator": "WAEKEY (filename attribution)",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[WAEKEY] LOONA Uniform Skirt.package",
+        "[WAEKEY] LOONA Uniform Top.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 2
+    },
+    {
+      "name": "xiuminuwu — additional installed CC",
+      "creator": "xiuminuwu",
+      "category": "Clothing & accessories",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/xiuminuwu",
+      "essential": false,
+      "included": [
+        "xiuminuwu_1_Billion_Views_Hoodie.package",
+        "xiuminuwu_1_Billion_Views_Hoodie_Overlay.package",
+        "xiuminuwu_9_Days_Jacket.package",
+        "xiuminuwu_Cage_Baggy_Jeans.package",
+        "xiuminuwu_Cage_Baggy_Jeans_Decals.package",
+        "xiuminuwu_Cant_Bring_Me_Down_Coat.package",
+        "xiuminuwu_Cream_Soda_Fur_Jacket.package",
+        "xiuminuwu_Cream_Soda_Fur_Jacket_T-Shirt_Overlay (1).package",
+        "xiuminuwu_Cream_Soda_Studded_Jeans.package",
+        "xiuminuwu_Dont_Fight_The_Feeling_Layered_Top (1).package",
+        "xiuminuwu_Dont_Fight_The_Feeling_TShirt_Overlay.package",
+        "xiuminuwu_Getaway_Bandana_V1.package",
+        "xiuminuwu_Getaway_Bandana_V2.package",
+        "xiuminuwu_Hear_Me_Out_Hoodie.package",
+        "xiuminuwu_Hear_Me_Out_Hoodie_Overlay.package",
+        "xiuminuwu_Hear_Me_Out_Pants.package",
+        "xiuminuwu_Holssi_Polo_Hoodie_Overlay.package",
+        "xiuminuwu_Holssi_Polo_With_Hoodie.package",
+        "xiuminuwu_In_My_Baggy_Cargo_Pants.package",
+        "xiuminuwu_In_My_Baggy_Jeans.package",
+        "xiuminuwu_In_My_Baggy_Shorts.package",
+        "xiuminuwu_Love_Me_Right_Denim_Jacket.package",
+        "xiuminuwu_Love_Me_Right_Number_Overlay.package",
+        "xiuminuwu_Lucky_One_Sleeve_Overlay.package",
+        "xiuminuwu_Lucky_One_T-Shirt.package",
+        "xiuminuwu_Melting_Heart_Beret (1).package",
+        "xiuminuwu_Melting_Heart_Beret_With_Bow.package",
+        "xiuminuwu_Monday_Blues_Shirt_With_Tie.package",
+        "xiuminuwu_Monday_Blues_Shirt_With_Tie_Overlay (1).package",
+        "xiuminuwu_Nectar_Leather_Jacket.package",
+        "xiuminuwu_Oasis_Shirt_V1.package",
+        "xiuminuwu_Oasis_Shirt_V2.package",
+        "xiuminuwu_Power_Sweater.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 33
+    },
+    {
+      "name": "AvathePit — unlinked installed files",
+      "creator": "AvathePit (filename attribution)",
+      "category": "Gameplay & utilities",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[AvathePit] Medieval Clergy Career_4.2.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "chingyu — unlinked installed files",
+      "creator": "chingyu (filename attribution)",
+      "category": "Gameplay & utilities",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "chingyu_Picker_for_P1.package",
+        "chingyu_Picker_for_P2.package",
+        "chingyu_Picker_for_P3.package",
+        "chingyu_Picker_for_P4.package",
+        "chingyu_Picker_for_P5.package",
+        "chingyu_Trait_Absent-Minded.package",
+        "chingyu_Trait_Amusing.package",
+        "chingyu_Trait_Analytical.package",
+        "chingyu_Trait_Appealing.package",
+        "chingyu_Trait_Aromantic.package",
+        "chingyu_Trait_Artistic.package",
+        "chingyu_Trait_Asocial.package",
+        "chingyu_Trait_Avoidant.package",
+        "chingyu_Trait_Awkward.package",
+        "chingyu_Trait_BabyMaker.package",
+        "chingyu_Trait_Bad-Natured.package",
+        "chingyu_Trait_Barfly.package",
+        "chingyu_Trait_Bashful.package",
+        "chingyu_Trait_Boring.package",
+        "chingyu_Trait_Brilliant.package",
+        "chingyu_Trait_Captivating.package",
+        "chingyu_Trait_Charming.package",
+        "chingyu_Trait_Chic.package",
+        "chingyu_Trait_ChildoftheNature.package",
+        "chingyu_Trait_Clever.package",
+        "chingyu_Trait_Cold-Blooded.package",
+        "chingyu_Trait_Comforting.package",
+        "chingyu_Trait_Cool.package",
+        "chingyu_Trait_Creepy.package",
+        "chingyu_Trait_Cruel.package",
+        "chingyu_Trait_Cute.package",
+        "chingyu_Trait_Daredevil.package",
+        "chingyu_Trait_Darling.package",
+        "chingyu_Trait_Delightful.package",
+        "chingyu_Trait_Detached.package",
+        "chingyu_Trait_Determined.package",
+        "chingyu_Trait_Dislikes Children.package",
+        "chingyu_Trait_Dislikes Elders.package",
+        "chingyu_Trait_Downer.package",
+        "chingyu_Trait_Eccentric.package",
+        "chingyu_Trait_Egotistical.package",
+        "chingyu_Trait_Elegant.package",
+        "chingyu_Trait_Emotional.package",
+        "chingyu_Trait_Encouraging.package",
+        "chingyu_Trait_Envious.package",
+        "chingyu_Trait_Excitable.package",
+        "chingyu_Trait_Extrovert.package",
+        "chingyu_Trait_Feeble.package",
+        "chingyu_Trait_Fickle.package",
+        "chingyu_Trait_Friendly.package",
+        "chingyu_Trait_Gentle.package",
+        "chingyu_Trait_Gym Bunny.package",
+        "chingyu_Trait_Hates Teens.package",
+        "chingyu_Trait_Heartbreaker.package",
+        "chingyu_Trait_Heroic.package",
+        "chingyu_Trait_Hideous.package",
+        "chingyu_Trait_High-Spirited.package",
+        "chingyu_Trait_High-Strung.package",
+        "chingyu_Trait_Homebody.package",
+        "chingyu_Trait_Homewrecker.package",
+        "chingyu_Trait_Hostile.package",
+        "chingyu_Trait_Hot.package",
+        "chingyu_Trait_Humble.package",
+        "chingyu_Trait_Hyper.package",
+        "chingyu_Trait_Impulsive.package",
+        "chingyu_Trait_Insane.package",
+        "chingyu_Trait_Introvert.package",
+        "chingyu_Trait_Irresistible.package",
+        "chingyu_Trait_Joyless.package",
+        "chingyu_Trait_Kind.package",
+        "chingyu_Trait_Light-Hearted.package",
+        "chingyu_Trait_Likeable.package",
+        "chingyu_Trait_Linguist.package",
+        "chingyu_Trait_Lovey-Dovey.package",
+        "chingyu_Trait_Melancholic.package",
+        "chingyu_Trait_Mischievous.package",
+        "chingyu_Trait_Moody.package",
+        "chingyu_Trait_Motivating.package",
+        "chingyu_Trait_Mysterious.package",
+        "chingyu_Trait_Nerdy.package",
+        "chingyu_Trait_Neurotic.package",
+        "chingyu_Trait_Nurturing.package",
+        "chingyu_Trait_Obsessive.package",
+        "chingyu_Trait_Open-Minded.package",
+        "chingyu_Trait_Optimistic.package",
+        "chingyu_Trait_Passionate.package",
+        "chingyu_Trait_PerfectPitch.package",
+        "chingyu_Trait_Pessimistic.package",
+        "chingyu_Trait_Plain-Looking.package",
+        "chingyu_Trait_Practical.package",
+        "chingyu_Trait_Pretty.package",
+        "chingyu_Trait_Pure.package",
+        "chingyu_Trait_Relaxed.package",
+        "chingyu_Trait_Repressed.package",
+        "chingyu_Trait_Reserved.package",
+        "chingyu_Trait_Scary.package",
+        "chingyu_Trait_Self-Conscious.package",
+        "chingyu_Trait_Sensitive.package",
+        "chingyu_Trait_Serious.package",
+        "chingyu_Trait_Short-Tempered.package",
+        "chingyu_Trait_Shy.package",
+        "chingyu_Trait_Silly.package",
+        "chingyu_Trait_Slow-To-Warm-Up.package",
+        "chingyu_Trait_Slow-Witted.package",
+        "chingyu_Trait_Smart.package",
+        "chingyu_Trait_Smug.package",
+        "chingyu_Trait_Sociable.package",
+        "chingyu_Trait_Soft.package",
+        "chingyu_Trait_Sporty.package",
+        "chingyu_Trait_Stone-Hearted.package",
+        "chingyu_Trait_Stunning.package",
+        "chingyu_Trait_Talentless.package",
+        "chingyu_Trait_Teasing.package",
+        "chingyu_Trait_Tender.package",
+        "chingyu_Trait_Thrill-Seeking.package",
+        "chingyu_Trait_Timid.package",
+        "chingyu_Trait_TrustIssues.package",
+        "chingyu_Trait_Ugly.package",
+        "chingyu_Trait_Unappeasable.package",
+        "chingyu_Trait_Unpredictable.package",
+        "chingyu_Trait_Unstable.package",
+        "chingyu_Trait_Untouchable.package",
+        "chingyu_Trait_Well-Balanced.package",
+        "chingyu_ZodiacSigns.package",
+        "chingyu_ZodiacSigns.ts4script"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 125
+    },
+    {
+      "name": "JS — unlinked installed files",
+      "creator": "JS (filename attribution)",
+      "category": "Gameplay & utilities",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "JS_Flute_1.2.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "KawaiiStacie — additional installed CC",
+      "creator": "KawaiiStacie",
+      "category": "Gameplay & utilities",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.kawaii-stacie.com/",
+      "essential": false,
+      "included": [
+        "KawaiiStacie ? My Memories.ts4script"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 1
+    },
+    {
+      "name": "KiaraSims4Mods — additional installed CC",
+      "creator": "KiaraSims4Mods",
+      "category": "Gameplay & utilities",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://kiarasims4mods.net/category/traits/",
+      "essential": false,
+      "included": [
+        "KiaraSims4Mods_AmorousHug_RomanceInteraction.package",
+        "KiaraSims4Mods_AskToRenewVows_RomanceInteraction.package",
+        "KiaraSims4Mods_Activist_Trait.package",
+        "KiaraSims4Mods_AllRounder_Trait.package",
+        "KiaraSims4Mods_Author_Trait.package",
+        "KiaraSims4Mods_Brave_Trait.package",
+        "KiaraSims4Mods_Charming_Trait.package",
+        "KiaraSims4Mods_CoffeeLover_Trait.package",
+        "KiaraSims4Mods_Diva_Trait.package",
+        "KiaraSims4Mods_FreeSpirit_Trait.package",
+        "KiaraSims4Mods_Funny_Trait.package",
+        "KiaraSims4Mods_GirlyGirl_Trait.package",
+        "KiaraSims4Mods_Intellectual_Trait.package",
+        "KiaraSims4Mods_KaraokeLover_Trait.package",
+        "KiaraSims4Mods_Llamacrat_Trait.package",
+        "KiaraSims4Mods_Lyricist_Trait.package",
+        "KiaraSims4Mods_MoonChild_Trait.package",
+        "KiaraSims4Mods_Mountaineer_Trait.package",
+        "KiaraSims4Mods_PhotographersEye_Trait.package",
+        "KiaraSims4Mods_Plumbobican_Trait.package",
+        "KiaraSims4Mods_Researcher_Trait.package",
+        "KiaraSims4Mods_Shy_Trait.package",
+        "KiaraSims4Mods_Simdipendent_Trait.package",
+        "KiaraSims4Mods_SkatingRink_LotTrait.package",
+        "KiaraSims4Mods_Spiritual_Trait.package",
+        "KiaraSims4Mods_SunChild_Trait.package",
+        "KiaraSims4Mods_Talented_Trait.package",
+        "KiaraSims4Mods_Vacationer_Trait.package",
+        "KiaraSims4Mods_Workaholic_Trait.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 29
+    },
+    {
+      "name": "Lily-Valley — unlinked installed files",
+      "creator": "Lily-Valley (filename attribution)",
+      "category": "Gameplay & utilities",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "Lily-Valley_UltimateMusic_Aug25.package",
+        "Lily-Valley_UltimateMusic_Aug25.ts4script"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 2
+    },
+    {
+      "name": "Neia — unlinked installed files",
+      "creator": "Neia (filename attribution)",
+      "category": "Gameplay & utilities",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "Neia_Careers_Commons.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "seameww — unlinked installed files",
+      "creator": "seameww (filename attribution)",
+      "category": "Gameplay & utilities",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[seameww] little skating star posepack.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "SimmerKate — additional installed CC",
+      "creator": "SimmerKate",
+      "category": "Gameplay & utilities",
+      "subcategory": "Other",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/SimmerKate/sitemap",
+      "essential": false,
+      "included": [
+        "SimmerKate_XtraInteractionsMod.package",
+        "SimmerKate_XtraInteractionsMod.ts4script"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 2
+    },
+    {
+      "name": "Simuko — unlinked installed files",
+      "creator": "Simuko (filename attribution)",
+      "category": "Gameplay & utilities",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "Simuko_Careers_KpopIdol.ts4script",
+        "[SIMUKO] KPOP Idol Career.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 2
+    },
+    {
+      "name": "Unidentified files — Other",
+      "creator": "",
+      "category": "Gameplay & utilities",
+      "subcategory": "Other",
+      "url": "",
+      "essential": false,
+      "included": [
+        "(Blue) 240712 selfie posepack.package",
+        "THEROYALSIMSGoToChurchPosePack.package",
+        "[F] Book Reading in Bed Posepack.package",
+        "[F] Book Stigmata (Original by Kiru).package",
+        "Music - DagDag Nooboo.package",
+        "Music - Ooh Be Gah.package",
+        "Music - Sul Sul Nooboo.package",
+        "Vocals - DagDag Nooboo.package",
+        "Vocals - Ooh Be Gah.package",
+        "Vocals - SulSul Nooboo.package",
+        "Nimalusims_Bible Traits.package",
+        "thepancake1-MoreTraitsInCAS-v2d-1.121.package",
+        "Tralfaz_Radiophobe_ZodiacTraits_Merged_AllSTBL.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 13
+    },
+    {
+      "name": "batwhim — unlinked installed files",
+      "creator": "batwhim (filename attribution)",
+      "category": "Genetics & skin details",
+      "subcategory": "Body details",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[batwhim] teen spirit tattoos UPDATED.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "BYDIV. — unlinked installed files",
+      "creator": "BYDIV. (filename attribution)",
+      "category": "Genetics & skin details",
+      "subcategory": "Body details",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[BYDIV.] HANDS Tattoos #1.package",
+        "[BYDIV.] HANDS Tattoos #2.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 2
+    },
+    {
+      "name": "DONOTDOUBT — unlinked installed files",
+      "creator": "DONOTDOUBT (filename attribution)",
+      "category": "Genetics & skin details",
+      "subcategory": "Body details",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[DONOTDOUBT] angel TATTOO.package",
+        "[DONOTDOUBT] everything TATTOO.package",
+        "[DONOTDOUBT] made in heaven TATTOO.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 3
+    },
+    {
+      "name": "Rope — unlinked installed files",
+      "creator": "Rope (filename attribution)",
+      "category": "Genetics & skin details",
+      "subcategory": "Body details",
+      "url": "",
+      "essential": false,
+      "included": [
+        "Rope_yuSkinDetail_InvisibleMouthCrease.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "ts4h — unlinked installed files",
+      "creator": "ts4h (filename attribution)",
+      "category": "Genetics & skin details",
+      "subcategory": "Body details",
+      "url": "",
+      "essential": false,
+      "included": [
+        "ts4h - eros tattoos.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "aharris00britney — additional installed CC",
+      "creator": "aharris00britney",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/aharris00britney/sitemap",
+      "essential": false,
+      "included": [
+        "[AH00B]-Desiree&DestinyHair_OmbreAcc.package",
+        "[AH00B]-DestinyHair_V1.package",
+        "[AH00B]-DestinyHair_V2.package",
+        "[AH00B]-DestinyHair_V3.package",
+        "[AH00B]-HinakoHair_V1.package",
+        "[AH00B]-HinakoHair_V1_Ombre.package",
+        "[AH00B]-HinakoHair_V1_ZebraStreaks.package",
+        "[AH00B]-HinakoHair_V2.package",
+        "[AH00B]-HinakoHair_V2_Ombre.package",
+        "[AH00B]-HinakoHair_V2_ZebraStreaks.package",
+        "[AH00B]-HinakoHair_V3.package",
+        "[AH00B]-HinakoHair_V3_Ombre.package",
+        "[AH00B]-HinakoHair_V3_ZebraStreaks.package",
+        "[AH00B]-KaceyHair_StarClips.package",
+        "[AH00B]-KaceyHair_V1.package",
+        "[AH00B]-KaceyHair_V3.package",
+        "[AH00B]-LexiHair_Streaks.package",
+        "[AH00B]-SashaHair_BowAcc.package",
+        "[AH00B]-SashaHair_ElasticAcc.package",
+        "[AH00B]-SeanHair_DyeAccessory.package",
+        "[AH00B]-SeanHair_V1.package",
+        "[AH00B]-SeanHair_V1_DyedVersion.package",
+        "[AH00B]-SeanHair_V2.package",
+        "[AH00B]-SeanHair_V2_DyedVersion.package",
+        "[AH00B]-TyraBob_OmbreAcc.package",
+        "[AH00B]-VixenHair_OmbreAcc.package",
+        "[AH00B]-VixenHair_V1.package",
+        "[AH00B]-VixenHair_V1_OmbreVersion.package",
+        "[AH00B]-VixenHair_V2.package",
+        "[AH00B]-VixenHair_V2_OmbreVersion.package",
+        "[AH00B]-VixenHair_V3.package",
+        "[AH00B]-VixenHair_V3_OmbreVersion.package",
+        "[AH00B]-VixenHair_V4.package",
+        "[AH00B]-VixenHair_V4_OmbreVersion.package",
+        "[AH00B]-WandaHair_V1_NoStrands.package",
+        "[AH00B]-WandaHair_V1_Strands.package",
+        "[AH00B]-WandaHair_V2_NoStrands.package",
+        "[AH00B]-WandaHair_V2_Strands.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 38
+    },
+    {
+      "name": "Aurum — unlinked installed files",
+      "creator": "Aurum (filename attribution)",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "essential": false,
+      "included": [
+        "Aurum_HairstyleFMM_151_Sakura.package",
+        "Aurum_HairstyleFMM_152_Sabrina.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 2
+    },
+    {
+      "name": "clumsyalien — additional installed CC",
+      "creator": "clumsyalien",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/clumsyalien/sitemap",
+      "essential": false,
+      "included": [
+        "CLUMSYALIEN [AZALEA HAIR].package",
+        "CLUMSYALIEN [BONNIE HAIR F].package",
+        "CLUMSYALIEN [BONNIE HAIR M].package",
+        "CLUMSYALIEN [DEMI HAIR F].package",
+        "CLUMSYALIEN [DEMI HAIR M].package",
+        "CLUMSYALIEN [DEMI HIGHLIGHTS ACCESSORY].package",
+        "CLUMSYALIEN [FAYE HAIR] (1).package",
+        "CLUMSYALIEN [FAYE HAIR].package",
+        "CLUMSYALIEN [FELICITY TOP].package",
+        "CLUMSYALIEN [HELGA HAIR].package",
+        "CLUMSYALIEN [KEIRA SHORTS].package",
+        "CLUMSYALIEN [LOTTIE TOP].package",
+        "CLUMSYALIEN [MARIGOLD HAIR].package",
+        "CLUMSYALIEN [MATTEA HAIR].package",
+        "CLUMSYALIEN [MEGAN HAIR].package",
+        "CLUMSYALIEN [MICAH HAIR].package",
+        "CLUMSYALIEN [MICHELLE HAIR F].package",
+        "CLUMSYALIEN [MICHELLE HAIR M].package",
+        "CLUMSYALIEN [MICHELLE OMBRE ACCESSORY].package",
+        "CLUMSYALIEN [MONICA HAIR YF].package",
+        "CLUMSYALIEN [MONICA HAIR YM].package",
+        "CLUMSYALIEN [NEAL HAIR YF].package",
+        "CLUMSYALIEN [NEAL HAIR YM].package",
+        "CLUMSYALIEN [OLEANDER HAIR YF].package",
+        "CLUMSYALIEN [OLEANDER HAIR YM].package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 25
+    },
+    {
+      "name": "demonyo — additional installed CC",
+      "creator": "demonyo",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/demonyo",
+      "essential": false,
+      "included": [
+        "[dem0nyo] Lucinda Hair.package",
+        "[dem0nyo] Maila Hair.package",
+        "[dem0nyo] march 2025 hair set.package",
+        "[dem0nyo] Odette Hair.package",
+        "[dem0nyo] Rosario Hair.package",
+        "[dem0nyo] Valentina Hair.package",
+        "[dem0nyo] Yesenia Hair.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 7
+    },
+    {
+      "name": "GPME-GOLD — unlinked installed files",
+      "creator": "GPME-GOLD (filename attribution)",
+      "category": "Hair & beauty",
+      "subcategory": "Makeup",
+      "url": "",
+      "essential": false,
+      "included": [
+        "GPME-GOLD Kpop Idol Makeup.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 1
+    },
+    {
+      "name": "hs — unlinked installed files",
+      "creator": "hs (filename attribution)",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[hs] tera hair v1 historian add on.package",
+        "[hs] tera hair v2.package",
+        "[hs] tera hair v3.package",
+        "[hs] tera hair.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 4
+    },
+    {
+      "name": "JohnnySims — additional installed CC",
+      "creator": "JohnnySims",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/johnnysims/sitemap",
+      "essential": false,
+      "included": [
+        "JohnnySims_Adley_Hair_M.package",
+        "JohnnySims_Arthur_Hair_F (1).package",
+        "JohnnySims_Arthur_Hair_F.package",
+        "JohnnySims_Arthur_Hair_M (1).package",
+        "JohnnySims_Arthur_Hair_M.package",
+        "JohnnySims_Arthur_Hair_Merged (1).package",
+        "JohnnySims_Arthur_Hair_Merged.package",
+        "JohnnySims_Arthur_Hair_NoStrands_F (1).package",
+        "JohnnySims_Arthur_Hair_NoStrands_F.package",
+        "JohnnySims_Arthur_Hair_NoStrands_M (1).package",
+        "JohnnySims_Arthur_Hair_NoStrands_M.package",
+        "JohnnySims_Dont_Care_Set_MERGED.package",
+        "JohnnySims_Finley_Hair_F.package",
+        "JohnnySims_Finley_Hair_M.package",
+        "JohnnySims_Finley_Hair_NoStrands_F.package",
+        "JohnnySims_Finley_Hair_NoStrands_M.package",
+        "JohnnySims_F_Craig_Hair.package",
+        "JohnnySims_F_Craig_Hair_Flipped.package",
+        "JohnnySims_Hunter_Hair_M.package",
+        "JohnnySims_Hunter_Hair_NoStrands_M.package",
+        "JohnnySims_Julio_Hair_MERGED.package",
+        "JohnnySims_Lionel_Hair_F.package",
+        "JohnnySims_Lionel_Hair_M.package",
+        "JohnnySims_Miguel_Two_Tone_Overlay.package",
+        "JohnnySims_M_Darwin_Hair.package",
+        "JohnnySims_M_Darwin_Hair_Flipped.package",
+        "JohnnySims_M_Ivaan_Hair.package",
+        "JohnnySims_M_Ivaan_Hair_Flipped.package",
+        "JohnnySims_M_Miguel_Hair.package",
+        "JohnnySims_Noah_Hair_MERGED.package",
+        "JohnnySims_Scott_Summers_Hair_MERGED.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 31
+    },
+    {
+      "name": "LeahLillith — unlinked installed files",
+      "creator": "LeahLillith (filename attribution)",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "essential": false,
+      "included": [
+        "LeahLillith_AzizaClawClip_RECOLORONLY_001.package",
+        "LeahLillith_AzizaHairstyleOmbre_01.package",
+        "LeahLillith_AzizaHairstyle_MM.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 3
+    },
+    {
+      "name": "lunamoth — unlinked installed files",
+      "creator": "lunamoth (filename attribution)",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "essential": false,
+      "included": [
+        "{lunamoth} coif color overlay.package",
+        "{lunamoth} coif hairstyle ~ braid.package",
+        "{lunamoth} coif hairstyle ~ bun.package",
+        "{lunamoth} coif hairstyle ~ long wavy.package",
+        "{lunamoth} coif hat acc.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 5
+    },
+    {
+      "name": "megukiru / meghewlett — additional installed CC",
+      "creator": "megukiru / meghewlett",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/megukiru",
+      "essential": false,
+      "included": [
+        "meghewlett_alhaitham_hair.package",
+        "meghewlett_cyno_hair.package",
+        "meghewlett_dominick_hair.package",
+        "meghewlett_hanyoohyun_hair.package",
+        "meghewlett_hawthorn_hair.package",
+        "meghewlett_kiraraV2_hair.package",
+        "meghewlett_seox_catears_earringcategory.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 7
+    },
+    {
+      "name": "oakiyo — additional installed CC",
+      "creator": "oakiyo",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/oakiyo/sitemap",
+      "essential": false,
+      "included": [
+        "[oakiyo] Alena Hair.package",
+        "[oakiyo] Bebe Hair.package",
+        "[oakiyo] Harriet Hair.package",
+        "[oakiyo] Jackson Hair - Bandanna Overlay.package",
+        "[oakiyo] Jackson Hair F.package",
+        "[oakiyo] Jackson Hair M.package",
+        "[oakiyo] Larissa Hair.package",
+        "[oakiyo] Marissa Hair V1.package",
+        "[oakiyo] Marissa Hair V2.package",
+        "[oakiyo] Marissa Hair V3.package",
+        "[oakiyo] Mila Hair.package",
+        "[oakiyo] Sab Hair V1.package",
+        "[oakiyo] Sab Hair V2.package",
+        "[oakiyo] Siena Hair V1.package",
+        "[oakiyo] Siena Hair V2.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 15
+    },
+    {
+      "name": "qicc — additional installed CC",
+      "creator": "qicc",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "creatorUrl": "https://www.thesimsresource.com/members/qicc/",
+      "essential": false,
+      "included": [
+        "[QICC]Bessie_Hair.package",
+        "[QICC]Liv_Hair_Clips_Accessory.package",
+        "[QICC]Liv_Hair_Ombre_Accessory.package",
+        "[QICC]Liv_Hair_v1.package",
+        "[QICC]Liv_Hair_v2.package",
+        "[QICC]Liv_Hair_v3.package",
+        "[QICC]Liv_Hair_v4.package",
+        "[QICC]Tea_Time_Melita_Hair.package",
+        "[QICC]Tea_Time_Melita_Hair_Flowers_Accessory.package",
+        "[QICC]Verna_Hair_v1.package",
+        "[QICC]Verna_Hair_v2.package",
+        "[QICC]Verna_Hair_v3.package",
+        "[QICC]Verna_Hair_v4.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 13
+    },
+    {
+      "name": "RavenSim — additional installed CC",
+      "creator": "RavenSim",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/RavenSim/sitemap",
+      "essential": false,
+      "included": [
+        "Ravensim_LibiHairToddlerFix.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 1
+    },
+    {
+      "name": "SEOULSOUL — additional installed CC",
+      "creator": "SEOULSOUL",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/seoulsoul",
+      "essential": false,
+      "included": [
+        "[SEOULSOUL] HAIR_N28_Butterfly pin_HQ.package",
+        "[SEOULSOUL] HAIR_N28_Ribbons_HQ.package",
+        "[SEOULSOUL] HAIR_N28_V1_HQ.package",
+        "[SEOULSOUL] HAIR_N28_V2_HQ.package",
+        "[SEOULSOUL] HAIR_N28_V3_HQ.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 5
+    },
+    {
+      "name": "SIMANDY — additional installed CC",
+      "creator": "SIMANDY",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/cw/simmandy",
+      "essential": false,
+      "included": [
+        "SIMANDY_Daystar_Hair.package",
+        "SIMANDY_Daystar_PuppyCrow.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 2
+    },
+    {
+      "name": "The Kunstwollen — additional installed CC",
+      "creator": "The Kunstwollen",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "creatorUrl": "https://www.patreon.com/thekunstwollen/sitemap",
+      "essential": false,
+      "included": [
+        "[THE_KUNSTWOLLEN]_Amour_male_hair.package",
+        "[THE_KUNSTWOLLEN]_Golden_hair_male.package",
+        "[THE_KUNSTWOLLEN]_Hanni_hair_female.package",
+        "[THE_KUNSTWOLLEN]_Love_wins_all_flower_accessory.package",
+        "[THE_KUNSTWOLLEN]_Love_wins_hair_female.package",
+        "[THE_KUNSTWOLLEN]_Moonchild_hair_male.package",
+        "[THE_KUNSTWOLLEN]_Natty_hair_female.package",
+        "[THE_KUNSTWOLLEN]_Natty_higlights_overlay.package",
+        "[THE_KUNSTWOLLEN]_Neptune_hair_male.package",
+        "[THE_KUNSTWOLLEN]_Sweet_Night_hair_male.package",
+        "[THE_KUNSTWOLLEN]_Winter_hair_female.package",
+        "[THE_KUNSTWOLLEN]_Wonhee_hairstyle_female.package"
+      ],
+      "creditStatus": "archive",
+      "fileCount": 12
+    },
+    {
+      "name": "tlw — unlinked installed files",
+      "creator": "tlw (filename attribution)",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "essential": false,
+      "included": [
+        "tlw_kpopgeneric1.package",
+        "tlw_kpopgeneric2.package",
+        "tlw_kpopgeneric3.package",
+        "tlw_kpopgeneric4.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 4
+    },
+    {
+      "name": "Unidentified files — Hair",
+      "creator": "",
+      "category": "Hair & beauty",
+      "subcategory": "Hair",
+      "url": "",
+      "essential": false,
+      "included": [
+        "(Lewbertsn00tles) Keira Hair V2.package",
+        "(Lewbertsn00tles) Roxy Hair (Child).package",
+        "cazhan_AmeliaHair.package",
+        "Joliebean_BusyWoman_Hair.package",
+        "LEXEL - Evelina_toddler.package",
+        "MSQSIMSMatildaHair.package",
+        "orchiona_ raven hair.package",
+        "ShimydimHairTheodoraNaturalsUnnaturalsChild.package",
+        "Simjo_Largo_MMHair.package",
+        "simkatu esther hair.package",
+        "SimMandy_Aera_Hair_v1_PuppyCrow.package",
+        "SimMandy_Aera_Hair_v2_PuppyCrow.package",
+        "WINGS HAIR TS4 ES0817 (loose bangs male hair).package",
+        "[heartquake ?] kia hair.package",
+        "[JINO]MaxisMatch_HAIR_N1_ALLcolors.package",
+        "[THE_KUNTSWOLLEN]_Layover_hair_male.package",
+        "_THE_KUSNTWOLLEN__Jimin_hair.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 17
+    },
+    {
+      "name": "Unidentified files — Makeup",
+      "creator": "",
+      "category": "Hair & beauty",
+      "subcategory": "Makeup",
+      "url": "",
+      "essential": false,
+      "included": [
+        "[333]Nina lipstick.package",
+        "[Beto X Anonimux] On The Ground Eyeshadow.package"
+      ],
+      "creditStatus": "pending",
+      "fileCount": 2
     }
   ]
 }
