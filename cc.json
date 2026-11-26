@@ -1,0 +1,520 @@
+{
+  "schemaVersion": 1,
+  "inventoryDate": "2026-11-25",
+  "complete": false,
+  "items": [
+    {
+      "name": "Andrew's Pose Player",
+      "creator": "Andrew",
+      "category": "Gameplay & utilities",
+      "subcategory": "Other",
+      "url": "https://sims4studio.com/thread/2617/andrews-studio",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Teen Jobs Collection",
+      "creator": "AstroBluu",
+      "category": "Gameplay & utilities",
+      "subcategory": "Careers",
+      "url": "https://www.patreon.com/astrosims/posts/teen-jobs-and-to-148421430",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Season of the Soul",
+      "creator": "atticwindowatdawn",
+      "category": "Build & Buy",
+      "subcategory": "Furniture",
+      "url": "https://www.patreon.com/atticwindowatdawn/posts/season-of-soul-116323193",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "MC Command Center",
+      "creator": "Deaderpool",
+      "category": "Gameplay & utilities",
+      "subcategory": "Quality of life",
+      "url": "https://www.curseforge.com/sims4/mods/mc-command-center",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Language Barriers",
+      "creator": "frankk",
+      "category": "Gameplay & utilities",
+      "subcategory": "Gameplay",
+      "url": "https://www.curseforge.com/sims4/mods/language-barriers",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Play Together: Billy's Band v3.0",
+      "creator": "Gothichamlet",
+      "category": "Gameplay & utilities",
+      "subcategory": "Gameplay",
+      "url": "https://www.curseforge.com/sims4/mods/play-together-billys-band-practice",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "K-Pop Star Mod",
+      "creator": "KawaiiStacie",
+      "category": "Gameplay & utilities",
+      "subcategory": "Gameplay",
+      "url": "https://www.kawaii-stacie.com/post/kpop-star-mod",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Preschool Mod",
+      "creator": "KawaiiStacie",
+      "category": "Gameplay & utilities",
+      "subcategory": "Gameplay",
+      "url": "https://www.kawaii-stacie.com/post/preschool-mod",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Slice of Life",
+      "creator": "KawaiiStacie",
+      "category": "Gameplay & utilities",
+      "subcategory": "Gameplay",
+      "url": "https://www.kawaii-stacie.com/post/slice-of-life-mod",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Smart Beauty Careers",
+      "creator": "KawaiiStacie",
+      "category": "Gameplay & utilities",
+      "subcategory": "Careers",
+      "url": "https://www.kawaii-stacie.com/post/beauty-careers",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Beauty Model Career",
+        "Cafe Maid Career",
+        "Esthetician Career",
+        "Fashion Model Career",
+        "Hair Stylist Career",
+        "Makeup Artist Career",
+        "Nail Tech Career",
+        "Professional Cosplayer Career"
+      ]
+    },
+    {
+      "name": "The Explore Mod",
+      "creator": "KawaiiStacie",
+      "category": "Gameplay & utilities",
+      "subcategory": "Gameplay",
+      "url": "https://www.kawaii-stacie.com/post/the-explore-mod",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Ballet Club School Activity",
+      "creator": "KiaraSims4Mods",
+      "category": "Gameplay & utilities",
+      "subcategory": "Gameplay",
+      "url": "https://kiarasims4mods.net/2021/08/23/ballet-club/",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Citrus Room",
+      "creator": "KKB",
+      "category": "Build & Buy",
+      "subcategory": "Furniture",
+      "url": "https://www.patreon.com/u15789815/posts/kkbsmm-citrus-75256313",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Armchair",
+        "Bookcase",
+        "Books (versions 1–4)",
+        "Canvas (versions 1–2)",
+        "Coffee table (versions 1–2)",
+        "Curtain (2x3, 2x4, 3x3, 4x3)",
+        "Cushion (versions 1–2)",
+        "Delivery box",
+        "Desk calendar",
+        "Fabric storage box (versions 1–2)",
+        "File rack (versions 1–2)",
+        "Flower cushion (versions 1–2)",
+        "Frame (versions 1–2)",
+        "Loveseat",
+        "Mini Coffee table",
+        "Paintings",
+        "Samsung The Serif (versions 1–2)",
+        "Shelf (versions 1–2)",
+        "Sofa",
+        "Storage box (versions 1–2)",
+        "Wooden house clutter (versions 1–2)",
+        "Wooden tree clutter (versions 1–2)"
+      ]
+    },
+    {
+      "name": "Core Library",
+      "creator": "Lot 51",
+      "category": "Gameplay & utilities",
+      "subcategory": "Quality of life",
+      "url": "https://lot51.cc/mods/core-library",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Rambunctious Religions",
+      "creator": "Lumpinou",
+      "category": "Gameplay & utilities",
+      "subcategory": "Gameplay",
+      "url": "https://lumpinoumods.com/2020/10/20/rambunctious-religions/",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Pyrus skinblend",
+      "creator": "nesurii",
+      "category": "Genetics & skin details",
+      "subcategory": "Skin blends",
+      "url": "https://www.patreon.com/nesurii/posts/pyrus-default-109435520",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Photographic Memory 2.0",
+      "creator": "RAVASHEEN",
+      "category": "Gameplay & utilities",
+      "subcategory": "Gameplay",
+      "url": "https://ravasheen.com/download/photographic-memory-2-0/",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Blush Crush Collection",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-blush-153817150",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Asymmetric Off-Shoulder Top",
+        "Belted Midi Denim Skirt"
+      ]
+    },
+    {
+      "name": "Classic Affinity Set",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-classic-161422239",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Bustier & Tie-Neck Blouse"
+      ]
+    },
+    {
+      "name": "Dilemma",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-dilemma-163042571",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Crystal Flower Earrings",
+        "Lace V-neck Puff Maxi Dress",
+        "Pearl Flower Earrings",
+        "Tube Square Maxi Dress"
+      ]
+    },
+    {
+      "name": "Easy Day Stripe Set",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-easy-day-152380126",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Belted Wide Jeans",
+        "Layered T-Shirt"
+      ]
+    },
+    {
+      "name": "Easy Flow Pilates Set",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-easy-set-151869246",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Cardigan Top",
+        "Flare Pants",
+        "Heart Cutout Flare Pants",
+        "Heart Cutout Sleeveless Top"
+      ]
+    },
+    {
+      "name": "Everyday Accent",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-everyday-162486609",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Asymmetric Shirring Long-sleeve",
+        "Frill Short Denim",
+        "Short-sleeved shirt",
+        "Shoulder Shirring Top"
+      ]
+    },
+    {
+      "name": "Garden of Moments",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-garden-158052543",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Jewel Drop Earrings",
+        "Shirring Layered Dress",
+        "Slim Backless Maxi Dress"
+      ]
+    },
+    {
+      "name": "Midnight in Paris",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-midnight-159635282",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Gold Button Jacket Dress",
+        "Shirt Layered Dress"
+      ]
+    },
+    {
+      "name": "NEW GIFT BOX 39",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/new-gift-box-39-154602506",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Blazer & Pleated Skirt",
+        "Cameo Earring",
+        "Drop Earring",
+        "Heart Neck Midi Dress"
+      ]
+    },
+    {
+      "name": "NEW GIFT BOX 41",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/new-gift-box-41-159919798",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Seashell Earrings",
+        "Seashell Halter Bikini",
+        "Seashell Halter Two-piece",
+        "Starfish Earrings",
+        "Starfish Maxi Dress",
+        "Starfish Monokini"
+      ]
+    },
+    {
+      "name": "Salty Breeze",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-salty-164718102",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Gold Stud Earring",
+        "Ruffle Tie-front Crop & Skirt",
+        "Stone Drop Earring",
+        "Tie-front Crop & Maxi Skirt"
+      ]
+    },
+    {
+      "name": "Soft Silhouette Edit",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-soft-153339289",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Halter Neck Midi Dress",
+        "Off-Shoulder Knit Dress",
+        "Side Shirring Dress"
+      ]
+    },
+    {
+      "name": "The Classic Office",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-classic-166484185",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Double-Breasted Two-piece",
+        "Unbalance Minimal Two-piece"
+      ]
+    },
+    {
+      "name": "The Piano & Symphony",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-piano-164168649",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Button Knit Top & Shirt",
+        "Mini Pleated Skirt",
+        "Plaid Skirt",
+        "Vest & Puff Sleeve Shirt"
+      ]
+    },
+    {
+      "name": "Urban Sporty Setup Set",
+      "creator": "RIMINGS",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/RIMINGs/posts/rimings-urban-154306418",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Crop Tank Top",
+        "Training Pants"
+      ]
+    },
+    {
+      "name": "Teleport Any Sim",
+      "creator": "Scumbumbo (updated by Andrew)",
+      "category": "Gameplay & utilities",
+      "subcategory": "Quality of life",
+      "url": "https://scumbumbomods.com/teleport-any-sim",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "The Memo Collection",
+      "creator": "Sentate",
+      "category": "Clothing & accessories",
+      "subcategory": "Collection",
+      "url": "https://www.patreon.com/sentate/posts/memo-collection-153273180",
+      "essential": false,
+      "sims": [],
+      "builds": [],
+      "included": [
+        "Gwen Mini Skirt",
+        "Gwen Pants",
+        "Gwen Shirt",
+        "Gwen Shirt Overlay Rings",
+        "Kim Suit",
+        "Kim Suit Overlay Rings",
+        "Kim Suit Pants",
+        "Monique Pumps",
+        "Plum Blouse",
+        "Plum Skirt"
+      ]
+    },
+    {
+      "name": "Silky veil skin overlay",
+      "creator": "ttzh",
+      "category": "Genetics & skin details",
+      "subcategory": "Skin blends",
+      "url": "https://www.thesimsresource.com/members/thisisthem/downloads/details/category/sims4-skintones/title/silky-veil-skin-overlay/id/1780600/",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "T.O.O.L.",
+      "creator": "TwistedMexi",
+      "category": "Gameplay & utilities",
+      "subcategory": "Building tools",
+      "url": "https://twistedmexi.com/Mods/",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Social Variety",
+      "creator": "tyjokr",
+      "category": "Gameplay & utilities",
+      "subcategory": "Autonomy",
+      "url": "https://www.curseforge.com/sims4/mods/social-variety",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "100 Base Game Traits Pack V1",
+      "creator": "Vicky Sims (chingyu)",
+      "category": "Gameplay & utilities",
+      "subcategory": "Gameplay",
+      "url": "https://www.curseforge.com/sims4/mods/the-100-base-game-traits-pack-v1",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    },
+    {
+      "name": "Zodiac Signs Mod",
+      "creator": "Vicky Sims (chingyu)",
+      "category": "Gameplay & utilities",
+      "subcategory": "Gameplay",
+      "url": "https://sites.google.com/view/vickysims/traits/zodiac",
+      "essential": false,
+      "sims": [],
+      "builds": []
+    }
+  ]
+}
